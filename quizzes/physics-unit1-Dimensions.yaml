@@ -1,0 +1,148 @@
+id: physics-unit1-Dimensions
+title: 'Dimensions of Physical Quantities'
+questions:
+    -
+        text: 'The dimensions of a physical quantity are the _____ to which fundamental units must be raised to obtain the unit of a given Physical quantity.'
+        options:
+            -
+                correct: false
+                value: scales
+            -
+                correct: false
+                value: systems
+            -
+                correct: false
+                value: powers
+            -
+                correct: true
+                value: all of the above
+        detail: 'Correct! Dimensions represent the powers to which fundamental units must be raised.'
+    -
+        text: 'The dimensions of pressure are the same as ______.'
+        options:
+            -
+                correct: false
+                value: energy
+            -
+                correct: true
+                value: force
+            -
+                correct: false
+                value: energy per unit volume
+            -
+                correct: false
+                value: force per unit volume
+        detail: 'Right! Pressure has the same dimensions as force.'
+    -
+        text: 'Which one of the following is dimensionless?'
+        options:
+            -
+                correct: true
+                value: Volume / area
+            -
+                correct: false
+                value: Volume / Density
+            -
+                correct: true
+                value: Energy / Work
+            -
+                correct: true
+                value: Force / Acceleration
+        detail: 'Correct! Dimensionless quantities have no units.'
+    -
+        text: 'To decide dimensions of a physical quantity, the symbol of mass is expressed by_____'
+        options:
+            -
+                correct: true
+                value: M
+            -
+                correct: false
+                value: L
+            -
+                correct: false
+                value: A
+            -
+                correct: false
+                value: C
+    -
+        text: 'Dimensional formula for area is_____'
+        options:
+            -
+                correct: false
+                value: 'L2 M1 T0'
+            -
+                correct: true
+                value: 'L2 M0 T0'
+            -
+                correct: false
+                value: 'L0 M2 T1'
+            -
+                correct: false
+                value: 'L0 M0 T2'
+        detail: 'Correct! The dimensional formula for area is L2 M0 T0.'
+    -
+        text: 'The dimensional formula for velocity is ________.'
+        options:
+            -
+                correct: false
+                value: 'L-2 M1 T0'
+            -
+                correct: false
+                value: 'L1 M0 T-1'
+            -
+                correct: true
+                value: 'L0 M2 T-1'
+            -
+                correct: false
+                value: 'L1 M0 T2'
+        detail: 'Right! The dimensional formula for velocity is L0 M2 T-1.'
+    -
+        text: 'Dimensional formula for density is____'
+        options:
+            -
+                correct: false
+                value: 'L3 M1 T0'
+            -
+                correct: false
+                value: 'L3 M1 T-1'
+            -
+                correct: true
+                value: 'L0 M2 T-1'
+            -
+                correct: false
+                value: 'L-3 M1 T0'
+        detail: 'Correct! The dimensional formula for density is L0 M2 T-1.'
+    -
+        text: 'Out of the following, which physical quantity has a dimensional formula L1 M1 T-2?'
+        options:
+            -
+                correct: true
+                value: force
+            -
+                correct: false
+                value: acceleration
+            -
+                correct: false
+                value: velocity
+            -
+                correct: false
+                value: density
+        detail: 'Correct! The dimensional formula [L1 M1 T-2] corresponds to force.'
+    -
+        text: 'In the dimensional equation [La Mb Tc], [a b c] are called_______'
+        options:
+            -
+                correct: false
+                value: Dimensional formula
+            -
+                correct: false
+                value: dimensions
+            -
+                correct: false
+                value: basic quantities
+            -
+                correct: true
+                value: derived quantities
+        detail: 'Correct! [a b c] in the dimensional equation are called derived quantities.'
+description: 'Questions about dimensions of physical quantities.'
+topic: Physics-Unit1-Dimensions

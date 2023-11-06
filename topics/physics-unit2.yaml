@@ -1,0 +1,9 @@
+quizzes:
+    -
+        title: 'ELECTROSTATICS  AND MAGNETISM'          
+        description: 'ELECTROSTATICS  AND MAGNETISM (161) '
+        id: physics-unit2-ELECTROSTATICS-AND-MAGNETISM
+id: physics-unit2
+img: physics-unit2.png
+courseCode: 'Basic Physics'
+title: Physics-Unit2

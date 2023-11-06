@@ -1,0 +1,111 @@
+description: 'ELECTROSTATICS AND MAGNETISM (161)'
+topic: physics
+id: unit-2-quiz
+title: 'Unit 2 Quiz: Electrostatics and Magnetism'
+courseCode: Basic-Physics
+questions:
+    -
+        text: 'The excess or deficiency of an electron in a body gives the concept of ________.'
+        options:
+            -
+                correct: false
+                value: 'A proton'
+            -
+                correct: false
+                value: 'B current'
+            -
+                correct: false
+                value: 'C neutron'
+            -
+                correct: true
+                value: 'D charge'
+    -
+        text: 'The electricity developed on a body when it is rubbed on another body is called'
+        options:
+            -
+                correct: true
+                value: 'A Frictional electricity'
+            -
+                correct: false
+                value: 'B Magnetic electricity'
+            -
+                correct: false
+                value: 'C Current electricity'
+            -
+                correct: false
+                value: 'D None of these'
+    -
+        text: 'The types of electric charges are_____'
+        options:
+            -
+                correct: false
+                value: 'A small and large'
+            -
+                correct: true
+                value: 'B positive and negative'
+            -
+                correct: false
+                value: 'C north and south'
+            -
+                correct: false
+                value: 'D None of these'
+    -
+        text: 'The like charges _________ each other, and unlike charges ______ each other.'
+        options:
+            -
+                correct: true
+                value: 'A attract, repel'
+            -
+                correct: false
+                value: 'B increase, decrease'
+            -
+                correct: false
+                value: 'C repel, attract'
+            -
+                correct: false
+                value: 'D decrease, increase'
+    -
+        text: 'The force of attraction or repulsion between two electric charges is known as'
+        options:
+            -
+                correct: false
+                value: 'A Magnetic force'
+            -
+                correct: false
+                value: 'B Mechanical force'
+            -
+                correct: true
+                value: 'C Electrostatic force'
+            -
+                correct: false
+                value: 'D Frictional force'
+    -
+        text: 'The protons and electrons create electric fields that exert a force called _______.'
+        options:
+            -
+                correct: true
+                value: "A Coulomb's force"
+            -
+                correct: false
+                value: "B Joule's force"
+            -
+                correct: false
+                value: "C Newton's force"
+            -
+                correct: false
+                value: "D Ampere's force"
+    -
+        text: 'The principle of conservation of charges state that, the total charges on an isolated system remain'
+        options:
+            -
+                correct: true
+                value: 'A constant'
+            -
+                correct: false
+                value: 'B variable'
+            -
+                correct: false
+                value: 'C Small'
+            -
+                correct: false
+                value: 'D Large'

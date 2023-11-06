@@ -1,0 +1,110 @@
+id: physics-unit1-Units-and-Measurements
+title: 'Units and Measurements'
+questions:
+    -
+        text: 'The property of an object that can be measured using measuring instruments is known as_'
+        options:
+            -
+                correct: false
+                value: 'a chemical quantity'
+            -
+                correct: true
+                value: 'b physical quantity'
+            -
+                correct: false
+                value: 'c mathematical quantity'
+            -
+                correct: false
+                value: 'd all of the above'
+    -
+        text: 'The standard used for measurement of a physical quantity is called ________.'
+        options:
+            -
+                correct: true
+                value: 'a unit'
+            -
+                correct: false
+                value: 'b systematic quantity'
+            -
+                correct: false
+                value: 'c magnitude'
+            -
+                correct: false
+                value: 'd all of the above'
+    -
+        text: 'The requirement of a good unit is________.'
+        options:
+            -
+                correct: true
+                value: 'a well-defined and easily observable'
+            -
+                correct: true
+                value: 'b universally accepted'
+            -
+                correct: true
+                value: 'c unchangeable (invariable)'
+            -
+                correct: true
+                value: 'd all of the above'
+    -
+        text: 'A set of fundamental and derived units is referred to as ________.'
+        options:
+            -
+                correct: true
+                value: 'a system of units'
+            -
+                correct: false
+                value: 'b system of dimensions'
+            -
+                correct: false
+                value: 'c units'
+            -
+                correct: false
+                value: 'd error in the measurement'
+    -
+        text: 'CGS stands for ________.'
+        options:
+            -
+                correct: false
+                value: 'a cm-g-s'
+            -
+                correct: false
+                value: 'b cm-kg-s'
+            -
+                correct: false
+                value: 'c g-c-s'
+            -
+                correct: true
+                value: 'd cm-g-h'
+    -
+        text: 'MKS stands for ________.'
+        options:
+            -
+                correct: false
+                value: 'a cm-g-s'
+            -
+                correct: true
+                value: 'b m-kg-s'
+            -
+                correct: false
+                value: 'c m-kg-h'
+            -
+                correct: false
+                value: 'd m-kg-h'
+    -
+        text: 'The SI unit of plane angle is ________.'
+        options:
+            -
+                correct: true
+                value: 'a radian'
+            -
+                correct: false
+                value: 'b newton'
+            -
+                correct: false
+                value: 'c steradian'
+            -
+                correct: false
+                value: 'd ampere'
+description: 'This unit covers the basics of units and measurements in physics.'
+topic: Units-and-Measurements

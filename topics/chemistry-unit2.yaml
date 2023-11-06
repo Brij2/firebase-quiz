@@ -1,0 +1,21 @@
+quizzes:
+    -
+        title: Units and Measurements
+        description: 'Units and Measurements '
+        id: physics-unit1-Units-and-Measurements
+    -
+        title: Dimensions
+        description: ' Dimensions '
+        id: physics-unit1-Dimensions
+    -
+        title: Errors and significant figures
+        description: 'Errors and significant figures '
+        id: physics-unit1-Errors-and-significant-figures
+    -
+        title: Vernier caliper and micrometer screw guage
+        description: ' Vernier caliper and micrometer screw guage '
+        id: physics-unit1-Vernier-caliper-and-micrometer-screw-guage
+id: chemistry-unit1
+img: chemistry-uni''mt1.png
+courseCode: 'Basic Chemistry'
+title: chemistry-Unit1

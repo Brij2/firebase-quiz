@@ -1,0 +1,43 @@
+id: units-and-measurements
+title: 'Units and Measurements'
+questions:
+  -
+      text: 'The property of an object that can be measured using measuring instruments is known as_'
+      options:
+        -
+          correct: false
+          value: a chemical quantity
+          detail: 'Nope, that''s not the correct term.'
+        -
+          correct: true
+          value: a physical quantity
+          detail: 'Correct! Physical quantities can be measured using instruments.'
+        -
+          correct: false
+          value: a mathematical quantity
+          detail: 'Not the correct term.'
+        -
+          correct: false
+          value: 'all of the above'
+          detail: 'This includes options like "a chemical quantity," which is incorrect.'
+  -
+    text: 'The standard used for measurement of a physical quantity is called ________'
+    options:
+      -
+        correct: true
+        value: a unit
+        detail: 'Correct! A unit is used to measure physical quantities.'
+      -
+        correct: false
+        value: 'systamatic quantity'
+        detail: 'That''s not the correct term.'
+      -
+        correct: false
+        value: magnitude
+        detail: 'Not the correct term.'
+      -
+        correct: false
+        value: 'all of the above'
+        detail: 'This includes incorrect options.'
+description: 'Test your knowledge of units and measurements.'
+topic: physics

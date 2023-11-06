@@ -1,0 +1,12 @@
+quizzes:
+    -
+        title: Basics
+        description: 'What is units_and_measurements?'
+        id: units_and_measurements-basics
+    -
+        title: Templates
+        description: 'units_and_measurements''s template syntax'
+        id: units_and_measurements-templates
+id: units_and_measurements
+img: units_and_measurements.png
+title: units_and_measurements
