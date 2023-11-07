@@ -10,11 +10,11 @@ quizzes:
     -
         title: Errors and significant figures
         description: 'Errors and significant figures '
-        id: physics-unit1-Errors-and-significant-figures
+        id: physics-unit1-Errors
     -
         title: Vernier caliper and micrometer screw guage
         description: ' Vernier caliper and micrometer screw guage '
-        id: physics-unit1-Vernier-caliper-and-micrometer-screw-guage
+        id: physics-unit1-vernier
 id: physics-unit1
 img: physics-unit1.png
 courseCode: 'Basic Physics'

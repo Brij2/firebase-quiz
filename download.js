@@ -25,15 +25,10 @@ const toFile = async(id) => {
 }
 
 const topics = [
-    'angular',
-    'flutter',
-    'cf',
-    'firebase',
-    'firestore',
-    'flutter',
-    'rxjs',
-    'js',
-    'ts'
+    'chemistry-unit1',
+    'chemistry-unit2',
+    'physics-unit1',
+    'physics-unit2',
 ]
 
 

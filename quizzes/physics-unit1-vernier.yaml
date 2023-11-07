@@ -1,0 +1,171 @@
+id: physics-unit1-vernier
+title: 'Vernier caliper and micrometer screw guage'
+description: 'Questions about Vernier caliper and micrometer screw guage.'
+topic: 'Vernier caliper and micrometer screw guage'
+questions:
+    -
+        text: 'The ratio of the smallest division on the main scale to the total number of divisions on the vernier scale is called_____?'
+        options:
+            -
+                correct: false
+                value: 'A. Pitch'
+            -
+                correct: true
+                value: 'B. Least Count'
+            -
+                correct: false
+                value: 'C. Error'
+            -
+                correct: false
+                value: 'D. Significant Figure'
+    -
+        text: 'Lower jaws of Vernier caliper are used for the measurement of _____ of the object.'
+        options:
+            -
+                correct: false
+                value: 'A. Inner Diameter'
+            -
+                correct: false
+                value: 'B. Thickness'
+            -
+                correct: false
+                value: 'C. Outer Diameter'
+            -
+                correct: true
+                value: 'D. Both (B) and (C)'
+    -
+        text: 'Upper jaws of vernier caliper are used for the measurement of _______ of the object.'
+        options:
+            -
+                correct: false
+                value: 'A. Inner Diameter'
+            -
+                correct: false
+                value: 'B. Outer Diameter'
+            -
+                correct: false
+                value: 'C. Length'
+            -
+                correct: true
+                value: 'D. Height'
+    -
+        text: 'Which of the following instrument has the minimum least count?'
+        options:
+            -
+                correct: true
+                value: 'A. Micrometer Screw Gauge'
+            -
+                correct: false
+                value: 'B. Vernier Caliper'
+            -
+                correct: false
+                value: 'C. Meter Scale'
+            -
+                correct: false
+                value: 'D. Measuring Tape'
+    -
+        text: 'Vernier caliper is used for the measurement of ______.'
+        options:
+            -
+                correct: true
+                value: 'A. Inner Diameter of the Object'
+            -
+                correct: true
+                value: 'B. Outer Diameter of the Object'
+            -
+                correct: true
+                value: 'C. Height or Depth of the Object'
+            -
+                correct: true
+                value: 'D. All of the Above'
+    -
+        text: '______ is used for the measurement of the inner diameter of a measuring cylinder.'
+        options:
+            -
+                correct: true
+                value: 'A. Vernier Caliper'
+            -
+                correct: false
+                value: 'B. Micrometer Screw Gauge'
+            -
+                correct: false
+                value: 'C. Measuring Tape'
+            -
+                correct: false
+                value: 'D. None of the Above'
+    -
+        text: '__________ of vernier caliper is used for the measurement of the depth of the objects.'
+        options:
+            -
+                correct: false
+                value: 'A. Mental Rod'
+            -
+                correct: true
+                value: 'B. Depth Rod'
+            -
+                correct: false
+                value: 'C. Upper Jaws'
+            -
+                correct: false
+                value: 'D. Lower Jaws'
+    -
+        text: 'The ratio of the smallest division on the main scale to the total number of divisions on the circular scale is called_____?'
+        options:
+            -
+                correct: false
+                value: 'A. Pitch'
+            -
+                correct: true
+                value: 'B. Least Count'
+            -
+                correct: false
+                value: 'C. Error'
+            -
+                correct: false
+                value: 'D. Significant Figure'
+    -
+        text: 'Micrometer screw gauge is used for the measurement of ______.'
+        options:
+            -
+                correct: false
+                value: 'A. Diameter of Sphere'
+            -
+                correct: false
+                value: 'B. Length of Small Block'
+            -
+                correct: false
+                value: 'C. Thickness of Plate'
+            -
+                correct: true
+                value: 'D. All of the Above'
+    -
+        text: 'Which one of the following instrument gives a more accurate result?'
+        options:
+            -
+                correct: true
+                value: 'A. Micrometer Screw Gauge'
+            -
+                correct: false
+                value: 'B. Vernier Caliper'
+            -
+                correct: false
+                value: 'C. Meter Scale'
+            -
+                correct: false
+                value: 'D. Measuring Tape'
+    -
+        text: 'For the measurement of the depth, which one of the following instrument is used?'
+        options:
+            -
+                correct: true
+                value: 'A. Micrometer Screw Gauge'
+            -
+                correct: false
+                value: 'B. Vernier Caliper'
+            -
+                correct: false
+                value: 'C. Meter Scale'
+            -
+                correct: false
+                value: 'D. Measuring Tape'
+    

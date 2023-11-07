@@ -8,28 +8,10 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const quizzes = [
-    'units_and_measurements',
     'physics-unit1-Units-and-Measurements',
     'physics-unit1-Dimensions',
-    // 'physics-unit2-ELECTROSTATICS-AND-MAGNETISM',
-    'physics-unit1',
-    'physics-unit2',
-    'angular-basics',
-    'flutter-scroll',
-    'cf-basics',
-    'cf-triggers',
-    'firebase-perf',
-    'firestore-basics',
-    'flutter-basics',
-    'flutter-containers',
-    'flutter-flex',
-    'flutter-gestures',
-    'flutter-material',
-    'flutter-scroll',
-    'js-basics',
-    'js-variables',
-    'rxjs-basics',
-    'ts-basics'
+    'physics-unit1-Errors',
+    'physics-unit1-vernier',
 ]
 
 

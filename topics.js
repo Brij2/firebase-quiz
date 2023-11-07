@@ -10,18 +10,9 @@ const db = admin.firestore();
 const topics = [
     'physics-unit1',
     'physics-unit2',
+    'physics-unit3',
     'chemistry-unit1',
     'chemistry-unit2',
-    'units_and_measurements',
-    'angular',
-    'flutter',
-    'cf',
-    'firebase',
-    'firestore',
-    'flutter',
-    'rxjs',
-    'js',
-    'ts'
 ]
 
 

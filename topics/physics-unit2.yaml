@@ -1,8 +1,16 @@
 quizzes:
     -
         title: 'ELECTROSTATICS  AND MAGNETISM'          
-        description: 'ELECTROSTATICS  AND MAGNETISM (161) '
+        description: 'ELECTROSTATICS  AND MAGNETISM '
         id: physics-unit2-ELECTROSTATICS-AND-MAGNETISM
+    -
+        title: 'Electricity'          
+        description: 'Electricity '
+        id: physics-unit2-Electricity
+    -
+        title: 'Semiconductor'          
+        description: 'Semiconductor '
+        id: physics-unit2-Semiconductor
 id: physics-unit2
 img: physics-unit2.png
 courseCode: 'Basic Physics'

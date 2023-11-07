@@ -1,5 +1,7 @@
 id: physics-unit1-Dimensions
 title: 'Dimensions of Physical Quantities'
+description: 'Questions about dimensions of physical quantities.'
+topic: Physics-Unit1-Dimensions
 questions:
     -
         text: 'The dimensions of a physical quantity are the _____ to which fundamental units must be raised to obtain the unit of a given Physical quantity.'
@@ -15,7 +17,7 @@ questions:
                 value: powers
             -
                 correct: true
-                value: all of the above
+                value: 'all of the above'
         detail: 'Correct! Dimensions represent the powers to which fundamental units must be raised.'
     -
         text: 'The dimensions of pressure are the same as ______.'
@@ -28,26 +30,26 @@ questions:
                 value: force
             -
                 correct: false
-                value: energy per unit volume
+                value: 'energy per unit volume'
             -
                 correct: false
-                value: force per unit volume
+                value: 'force per unit volume'
         detail: 'Right! Pressure has the same dimensions as force.'
     -
         text: 'Which one of the following is dimensionless?'
         options:
             -
                 correct: true
-                value: Volume / area
+                value: 'Volume / area'
             -
                 correct: false
-                value: Volume / Density
+                value: 'Volume / Density'
             -
                 correct: true
-                value: Energy / Work
+                value: 'Energy / Work'
             -
                 correct: true
-                value: Force / Acceleration
+                value: 'Force / Acceleration'
         detail: 'Correct! Dimensionless quantities have no units.'
     -
         text: 'To decide dimensions of a physical quantity, the symbol of mass is expressed by_____'
@@ -133,16 +135,364 @@ questions:
         options:
             -
                 correct: false
-                value: Dimensional formula
+                value: 'Dimensional formula'
             -
                 correct: false
                 value: dimensions
             -
                 correct: false
-                value: basic quantities
+                value: 'basic quantities'
             -
                 correct: true
-                value: derived quantities
+                value: 'derived quantities'
         detail: 'Correct! [a b c] in the dimensional equation are called derived quantities.'
-description: 'Questions about dimensions of physical quantities.'
-topic: Physics-Unit1-Dimensions
+    -
+        text: 'The dimensions of work is ________.'
+        options:
+        -
+            correct: true
+            value: 'a [L^2 M^1 T^2]'
+        -
+            correct: false
+            value: 'b [L^2 M^-1 T^2]'
+        -
+            correct: false
+            value: 'c [L^2 M^1 T^-2]'
+        -
+            correct: false
+            value: 'd [L^-2 M^1 T^-1]'
+        explanation: 'Explanation: Work = Force * Displacement = mass * acceleration * displacement = M * (L / T^2) * L => [L^2 M^1 T^-2]'
+    -
+        text: '[L^-1 M^0 T^0 K^1] are the dimensions of ____.'
+        options:
+        -
+            correct: false
+            value: '(a) temperature'
+        -
+            correct: false
+            value: '(b) temperature gradient'
+        -
+            correct: false
+            value: '(c) velocity'
+        -
+            correct: true
+            value: '(d) density'
+    -
+        text: '[L^2 M^1 T^-2 ] are the dimensions of ____.'
+        options:
+        -
+            correct: true
+            value: '(a) power'
+        -
+            correct: false
+            value: '(b) temperature gradient'
+        -
+            correct: false
+            value: '(c) energy'
+        -
+            correct: false
+            value: '(d) momentum'
+    -
+        text: '[L^1 M^0 T^-2 ] are the dimensions of ____.'
+        options:
+        -
+            correct: false
+            value: '(a) acceleration'
+        -
+            correct: false
+            value: '(b) temperature gradient'
+        -
+            correct: false
+            value: '(c) work'
+        -
+            correct: true
+            value: '(d) momentum'
+    -
+        text: '[L^2 M^1 T^-3 ] are the dimensions of ____.'
+        options:
+        -
+            correct: true
+            value: '(a) power'
+        -
+            correct: false
+            value: '(b) temperature gradient'
+        -
+            correct: false
+            value: '(c) energy'
+        -
+            correct: false
+            value: '(d) momentum'
+    -
+        text: '[L^1 M^1 T^-2 ] are the dimensions of ____.'
+        options:
+        -
+            correct: false
+            value: '(a) power'
+        -
+            correct: false
+            value: '(b) temperature gradient'
+        -
+            correct: true
+            value: '(c) force'
+        -
+            correct: false
+            value: '(d) momentum'
+    -
+        text: 'The dimensional formula for impulse is ________.'
+        options:
+        -
+            correct: false
+            value: '(a) [L^-2 M^1 T^1]'
+        -
+            correct: true
+            value: '(b) [L^1 M^1 T^-1]'
+        -
+            correct: false
+            value: '(c) [L^2 M^2 T^-1]'
+        -
+            correct: false
+            value: '(d) [L^1 M^0 T^2]'
+    -
+        text: 'The dimensional formula for volume is ________.'
+        options:
+        -
+            correct: false
+            value: '(a) [L^-1 M^1 T^0]'
+        -
+            correct: true
+            value: '(b) [L^1 M^0 T^-1]'
+        -
+            correct: false
+            value: '(c) [L^0 M^2 T^-1]'
+        -
+            correct: false
+            value: '(d) [L^3 M^0 T^0]'
+    -
+        text: '[L^1 M^1 T^-1] are the dimensions of ____.'
+        options:
+        -
+            correct: false
+            value: '(a) momentum'
+        -
+            correct: false
+            value: '(b) impulse'
+        -
+            correct: false
+            value: '(c) force'
+        -
+            correct: true
+            value: '(d) both a and b'
+        explanation: 'Explanation: Impulse = Force * Time = M * (L / T^2) * T => [L^1 M^1 T^-1]'
+    -
+        text: 'The dimensions of Kinetic energy are the same as that of___'
+        options:
+        -
+            correct: false
+            value: '(a) Force'
+        -
+            correct: false
+            value: '(b) Pressure'
+        -
+            correct: true
+            value: '(c) Work'
+        -
+            correct: false
+            value: '(d) Momentum'
+    -
+        text: 'Which of the following pairs has the same dimensions?'
+        options:
+        -
+            correct: false
+            value: '(a) Specific Heat and Latent Heat'
+        -
+            correct: true
+            value: '(b) Impulse and Momentum'
+        -
+            correct: false
+            value: '(c) Surface Tension and Force'
+        -
+            correct: false
+            value: '(d) Moment of Inertia and Torque'
+    -
+        text: '[L^1 M^1 T^-3 K^-1] is the dimensional formula of_____.'
+        options:
+        -
+            correct: false
+            value: '(a) coefficient of thermal conductivity'
+        -
+            correct: false
+            value: '(b) coefficient of friction'
+        -
+            correct: false
+            value: '(c) modulus of elasticity'
+        -
+            correct: true
+            value: '(d) energy'
+    -
+        text: 'To check the correctness of a physical equation, dimensions of all the terms involved in the equation should be'
+        options:
+        -
+            correct: false
+            value: 'A same'
+        -
+            correct: true
+            value: 'B different'
+        -
+            correct: false
+            value: 'C multiple of each other'
+        -
+            correct: false
+            value: 'D all of these'
+    -
+        text: 'The conversion factor between MKS unit and CGS unit of energy is____'
+        options:
+        -
+            correct: true
+            value: 'A 10^7'
+        -
+            correct: false
+            value: 'B 10^5'
+        -
+            correct: false
+            value: 'C 10^3'
+        -
+            correct: false
+            value: 'D 10^2'
+    -
+        text: 'The conversion factor between SI unit and CGS unit of power is____'
+        options:
+        -
+            correct: true
+            value: 'A 10^7'
+        -
+            correct: false
+            value: 'B 10^5'
+        -
+            correct: false
+            value: 'C 10^3'
+        -
+            correct: false
+            value: 'D 10^2'
+        explanation: 'Hint: SI unit of power is watt or J/s, and CGS unit is erg/s. 1 watt = 1 J/s = 10^7 erg/s (1 J = 10^7 erg)'
+    -
+        text: 'The conversion factor between SI unit and CGS unit of work is____'
+        options:
+        -
+            correct: true
+            value: 'A 10^7'
+        -
+            correct: false
+            value: 'B 10^5'
+        -
+            correct: false
+            value: 'C 10^3'
+        -
+            correct: false
+            value: 'D 10^2'
+        explanation: 'Hint: SI unit of work is joule, and CGS unit is erg. 1 J = 10^7 erg'
+    -
+        text: 'The conversion factor between SI unit and CGS unit of density is____'
+        options:
+        -
+            correct: true
+            value: 'A 10^7'
+        -
+            correct: false
+            value: 'B 10^3'
+        -
+            correct: false
+            value: 'C 10^-3'
+        -
+            correct: false
+            value: 'D 10^2'
+        explanation: 'Hint: SI unit of density is kg/m^3, and CGS unit is g/cm^3. 1 kg/m^3 = 1000 g/(100 cm)^3 = 10^3 g/(10^2 cm)^3 = 10^3/10^6 g/cm^3 = 10^-3 g/cm^3'
+    -
+        text: 'Which of the following equations is dimensionally incorrect?'
+        options:
+        -
+            correct: true
+            value: 'v = u + at'
+        -
+            correct: false
+            value: 's = ut + 1/2 at^2'
+        -
+            correct: false
+            value: 'v^2 = u^2 + 2as'
+        -
+            correct: false
+            value: 'K.E. = 1/2 m^2 v^2'
+    -
+        text: 'Which of the following equations is dimensionally correct?'
+        options:
+        -
+            correct: false
+            value: 'v = u + at'
+        -
+            correct: false
+            value: 's = t + 1/2 at^2'
+        -
+            correct: true
+            value: 'v^2 = u + 2as^2'
+        -
+            correct: false
+            value: 'K.E. = 1/2 m^2 v^2'
+    -
+        text: 'Which of the following equations is dimensionally correct?'
+        options:
+        -
+            correct: true
+            value: 'v = 2u + at'
+        -
+            correct: false
+            value: 's = ut + 1/2 at^2'
+        -
+            correct: false
+            value: 'v = 2s/t'
+        -
+            correct: false
+            value: 'K.E. = 1/2 m^2 v^2'
+    -
+        text: 'Which of the following equations is dimensionally correct?'
+        options:
+        -
+            correct: true
+            value: 'W = f x s^2'
+        -
+            correct: false
+            value: 's = ut^2 + 1/2 at^2'
+        -
+            correct: false
+            value: 'v^2 = u^2 + 2as'
+        -
+            correct: false
+            value: 'F = ma^2'
+    -
+        text: 'Which of the following equations is dimensionally correct?'
+        options:
+        -
+            correct: true
+            value: 'F = ma'
+        -
+            correct: false
+            value: 's = at + 1/2 ut^2'
+        -
+            correct: false
+            value: 'v^2 = u + 2as^2'
+        -
+            correct: false
+            value: 'K.E. = 1/2 m^2 v^2'
+    -
+        text: 'Which of the following equations is dimensionally incorrect?'
+        options:
+        -
+            correct: true
+            value: 'v = u + at'
+        -
+            correct: false
+            value: 's = ut + 1/2 at^2'
+        -
+            correct: false
+            value: 'v^2 = u^2 + 2as'
+        -
+            correct: false
+            value: 'K.E. = 1/2 m^2 v^2'

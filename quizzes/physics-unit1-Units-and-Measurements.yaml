@@ -1,110 +1,1510 @@
 id: physics-unit1-Units-and-Measurements
 title: 'Units and Measurements'
-questions:
-    -
-        text: 'The property of an object that can be measured using measuring instruments is known as_'
-        options:
-            -
-                correct: false
-                value: 'a chemical quantity'
-            -
-                correct: true
-                value: 'b physical quantity'
-            -
-                correct: false
-                value: 'c mathematical quantity'
-            -
-                correct: false
-                value: 'd all of the above'
-    -
-        text: 'The standard used for measurement of a physical quantity is called ________.'
-        options:
-            -
-                correct: true
-                value: 'a unit'
-            -
-                correct: false
-                value: 'b systematic quantity'
-            -
-                correct: false
-                value: 'c magnitude'
-            -
-                correct: false
-                value: 'd all of the above'
-    -
-        text: 'The requirement of a good unit is________.'
-        options:
-            -
-                correct: true
-                value: 'a well-defined and easily observable'
-            -
-                correct: true
-                value: 'b universally accepted'
-            -
-                correct: true
-                value: 'c unchangeable (invariable)'
-            -
-                correct: true
-                value: 'd all of the above'
-    -
-        text: 'A set of fundamental and derived units is referred to as ________.'
-        options:
-            -
-                correct: true
-                value: 'a system of units'
-            -
-                correct: false
-                value: 'b system of dimensions'
-            -
-                correct: false
-                value: 'c units'
-            -
-                correct: false
-                value: 'd error in the measurement'
-    -
-        text: 'CGS stands for ________.'
-        options:
-            -
-                correct: false
-                value: 'a cm-g-s'
-            -
-                correct: false
-                value: 'b cm-kg-s'
-            -
-                correct: false
-                value: 'c g-c-s'
-            -
-                correct: true
-                value: 'd cm-g-h'
-    -
-        text: 'MKS stands for ________.'
-        options:
-            -
-                correct: false
-                value: 'a cm-g-s'
-            -
-                correct: true
-                value: 'b m-kg-s'
-            -
-                correct: false
-                value: 'c m-kg-h'
-            -
-                correct: false
-                value: 'd m-kg-h'
-    -
-        text: 'The SI unit of plane angle is ________.'
-        options:
-            -
-                correct: true
-                value: 'a radian'
-            -
-                correct: false
-                value: 'b newton'
-            -
-                correct: false
-                value: 'c steradian'
-            -
-                correct: false
-                value: 'd ampere'
 description: 'This unit covers the basics of units and measurements in physics.'
 topic: Units-and-Measurements
+questions:
+  -
+    text: 'The property of an object that can be measured using measuring instruments is known as_.'
+    options:
+      -
+        correct: false
+        value: 'a chemical quantity'
+      -
+        correct: true
+        value: 'b physical quantity'
+      -
+        correct: false
+        value: 'c mathematical quantity'
+      -
+        correct: false
+        value: 'd all of the above'
+  -
+    text: 'The standard used for measurement of a physical quantity is called ________.'
+    options:
+      -
+        correct: false
+        value: 'a unit'
+      -
+        correct: false
+        value: 'b systematic quantity'
+      -
+        correct: false
+        value: 'c magnitude'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'The requirement of a good unit is________.'
+    options:
+      -
+        correct: true
+        value: 'a well-defined and easily observable'
+      -
+        correct: true
+        value: 'b universally accepted'
+      -
+        correct: true
+        value: 'c unchangeable (invariable)'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'A set of fundamental and derived units is referred to as ________.'
+    options:
+      -
+        correct: true
+        value: 'a system of units'
+      -
+        correct: false
+        value: 'b system of dimensions'
+      -
+        correct: false
+        value: 'c units'
+      -
+        correct: false
+        value: 'd error in the measurement'
+  -
+    text: 'CGS stands for ________.'
+    options:
+      -
+        correct: false
+        value: 'a cm-g-s'
+      -
+        correct: false
+        value: 'b cm-kg-s'
+      -
+        correct: true
+        value: 'c g-cm-s'
+      -
+        correct: false
+        value: 'd cm-g-h'
+  -
+    text: 'MKS stands for ________.'
+    options:
+      -
+        correct: false
+        value: 'a cm-g-s'
+      -
+        correct: false
+        value: 'b m-kg-s'
+      -
+        correct: false
+        value: 'c m-kg-h'
+      -
+        correct: true
+        value: 'd m-kg-s'
+  -
+    text: 'The SI unit of plane angle is ________.'
+    options:
+      -
+        correct: false
+        value: 'a radian'
+      -
+        correct: false
+        value: 'b newton'
+      -
+        correct: true
+        value: 'c steradian'
+      -
+        correct: false
+        value: 'd ampere'
+  -
+    text: 'The SI unit of solid angle is ________.'
+    options:
+      -
+        correct: false
+        value: 'a radian'
+      -
+        correct: false
+        value: 'b newton'
+      -
+        correct: true
+        value: 'c steradian'
+      -
+        correct: false
+        value: 'd candela'
+  -
+    text: 'The SI unit of luminous intensity is ________.'
+    options:
+      -
+        correct: true
+        value: 'a ampere'
+      -
+        correct: false
+        value: 'b newton'
+      -
+        correct: false
+        value: 'c mole'
+      -
+        correct: false
+        value: 'd candela'
+  -
+    text: 'The SI unit of amount of substance is ________.'
+    options:
+      -
+        correct: false
+        value: 'a ampere'
+      -
+        correct: false
+        value: 'b newton'
+      -
+        correct: true
+        value: 'c mole'
+      -
+        correct: false
+        value: 'd candela'
+  -
+    text: 'Kelvin is the unit of__________.'
+    options:
+      -
+        correct: false
+        value: 'a electric current'
+      -
+        correct: true
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c force'
+      -
+        correct: false
+        value: 'd heat'
+  -
+    text: 'Calorie is the unit of__________.'
+    options:
+      -
+        correct: false
+        value: 'a electric current'
+      -
+        correct: false
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c force'
+      -
+        correct: true
+        value: 'd heat'
+  -
+    text: 'The SI unit of force is ________.'
+    options:
+      -
+        correct: false
+        value: 'a ampere'
+      -
+        correct: true
+        value: 'b newton'
+      -
+        correct: false
+        value: 'c mole'
+      -
+        correct: false
+        value: 'd dyne'
+  -
+    text: 'The SI unit of work is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton-metre'
+      -
+        correct: true
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c erg'
+      -
+        correct: true
+        value: 'd both a and b'
+  -
+    text: 'The CGS unit of work is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton-metre'
+      -
+        correct: true
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c erg'
+      -
+        correct: false
+        value: 'd dyne'
+  -
+    text: 'The CGS unit of force is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton-metre'
+      -
+        correct: false
+        value: 'b joule'
+      -
+        correct: true
+        value: 'c erg'
+      -
+        correct: false
+        value: 'd dyne'
+  -
+    text: 'The SI unit of velocity is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton-metre'
+      -
+        correct: false
+        value: 'b metre/second'
+      -
+        correct: true
+        value: 'c erg'
+      -
+        correct: false
+        value: 'd metre-second'
+  -
+    text: 'Unit of density in SI system is ________.'
+    options:
+      -
+        correct: false
+        value: 'a kg/m3'
+      -
+        correct: true
+        value: 'b J/s'
+      -
+        correct: false
+        value: 'c erg'
+      -
+        correct: false
+        value: 'd N/m2'
+  -
+    text: 'The SI unit of pressure is ________.'
+    options:
+      -
+        correct: false
+        value: 'a N-m'
+      -
+        correct: true
+        value: 'b N/m2'
+      -
+        correct: false
+        value: 'c erg/cm2'
+      -
+        correct: false
+        value: 'd N/m'
+  -
+    text: 'Kg/m-s2 is the unit of ______.'
+    options:
+      -
+        correct: true
+        value: 'a pressure'
+      -
+        correct: false
+        value: 'b force'
+      -
+        correct: false
+        value: 'c momentum'
+      -
+        correct: false
+        value: 'd energy'
+  -
+    text: 'The CGS unit of volume is ________.'
+    options:
+      -
+        correct: false
+        value: 'a m2'
+      -
+        correct: false
+        value: 'b cm3'
+      -
+        correct: false
+        value: 'c erg/m'
+      -
+        correct: true
+        value: 'd m3'
+  -
+    text: 'The SI unit of energy is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton'
+      -
+        correct: true
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c erg'
+      -
+        correct: false
+        value: 'd ampere'
+  -
+    text: 'The SI unit of impulse is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton-metre'
+      -
+        correct: true
+        value: 'b newton-second'
+      -
+        correct: false
+        value: 'c erg-metre'
+      -
+        correct: false
+        value: 'd erg-second'
+  -
+    text: 'The SI unit of power is ________.'
+    options:
+      -
+        correct: false
+        value: 'a newton-metre'
+      -
+        correct: false
+        value: 'b joule/second'
+      -
+        correct: true
+        value: 'c watt'
+      -
+        correct: true
+        value: 'd both b and c'
+  -
+    text: 'Unit of stress in SI system is ________.'
+    options:
+      -
+        correct: true
+        value: 'a N-m'
+      -
+        correct: false
+        value: 'b N/m2'
+      -
+        correct: false
+        value: 'c erg'
+      -
+        correct: false
+        value: 'd dyne/m2'
+  -
+    text: 'Coulomb is the unit of _________.'
+    options:
+      -
+        correct: true
+        value: 'a charge'
+      -
+        correct: false
+        value: 'b resistance'
+      -
+        correct: false
+        value: 'c magnetic field'
+      -
+        correct: false
+        value: 'd electric field'
+  -
+    text: 'Unit of electric current in SI system is ________.'
+    options:
+      -
+        correct: false
+        value: 'a mole'
+      -
+        correct: true
+        value: 'b ampere'
+      -
+        correct: false
+        value: 'c candela'
+      -
+        correct: false
+        value: 'd joule'
+  -
+    text: 'Unit of acceleration in SI system is ________.'
+    options:
+      -
+        correct: true
+        value: 'a m/s2'
+      -
+        correct: false
+        value: 'b m/s'
+      -
+        correct: false
+        value: 'c s/m'
+      -
+        correct: false
+        value: 'd s/m2'
+  -
+    text: 'The physical quantity measured in pascal is'
+    options:
+      -
+        correct: false
+        value: 'a power'
+      -
+        correct: true
+        value: 'b pressure'
+      -
+        correct: false
+        value: 'c momentum'
+      -
+        correct: false
+        value: 'd temperature gradient'
+  -
+    text: 'Temperature gradient is measured in ________.'
+    options:
+      -
+        correct: false
+        value: 'a kelvin-metre'
+      -
+        correct: true
+        value: 'b kelvin/second'
+      -
+        correct: false
+        value: 'c kelvin'
+      -
+        correct: false
+        value: 'd kelvin/metre'
+  -
+    text: 'There are  _____fundamental physical quantities.'
+    options:
+      -
+        correct: false
+        value: 'a 2'
+      -
+        correct: false
+        value: 'b 7'
+      -
+        correct: true
+        value: 'c 6'
+      -
+        correct: false
+        value: 'd 3'
+      -
+    text: 'There are  _____supplementary physical quantities/units.'
+    options:
+      -
+        correct: false
+        value: 'a 2'
+      -
+        correct: false
+        value: 'b 7'
+      -
+        correct: true
+        value: 'c 6'
+      -
+        correct: false
+        value: 'd 3'
+  -
+    text: 'Electric current, temperature and luminous intensity are the __________quantities.'
+    options:
+      -
+        correct: false
+        value: 'a chemical'
+      -
+        correct: false
+        value: 'b derived'
+      -
+        correct: true
+        value: 'c fundamental'
+      -
+        correct: false
+        value: 'd mathematical'
+  -
+    text: 'The physical quantities which do not depend on any other physical quantities for their measurements are known as _______quantities.'
+    options:
+      -
+        correct: true
+        value: 'a chemical'
+      -
+        correct: false
+        value: 'b derived'
+      -
+        correct: false
+        value: 'c fundamental'
+      -
+        correct: false
+        value: 'd mathematical'
+  -
+    text: 'The physical quantities which depend on one or more fundamental quantities for their measurements are called_________quantities.'
+    options:
+      -
+        correct: false
+        value: 'a chemical'
+      -
+        correct: true
+        value: 'b derived'
+      -
+        correct: false
+        value: 'c fundamental'
+      -
+        correct: false
+        value: 'd mathematical'
+  -
+    text: 'The SI unit of force is ________.'
+    options:
+      -
+        correct: true
+        value: 'a newton'
+      -
+        correct: false
+        value: 'b kg-m/s2'
+      -
+        correct: false
+        value: 'c dyne/m'
+      -
+        correct: false
+        value: 'd both (a) and (b)'
+  -
+    text: 'The unit of derived physical quantity is called ______'
+    options:
+      -
+        correct: false
+        value: 'a magnitude'
+      -
+        correct: false
+        value: 'b derived unit'
+      -
+        correct: false
+        value: 'c fundamental unit'
+      -
+        correct: true
+        value: 'd quantity unit'
+  -
+    text: 'The unit of fundamental physical quantity is called ______'
+    options:
+      -
+        correct: false
+        value: 'a magnitude'
+      -
+        correct: false
+        value: 'b derived unit'
+      -
+        correct: true
+        value: 'c fundamental unit'
+      -
+        correct: false
+        value: 'd vector quantity unit'
+  -
+    text: 'Any physical quantity is measured and expressed in terms of a____.'
+    options:
+      -
+        correct: true
+        value: 'a magnitude'
+      -
+        correct: true
+        value: 'b unit'
+      -
+        correct: true
+        value: 'c magnitude and a unit'
+      -
+        correct: true
+        value: 'd vector quantity unit'
+  -
+    text: 'The product of force and displacement is called ______'
+    options:
+      -
+        correct: true
+        value: 'a pressure'
+      -
+        correct: false
+        value: 'b impulse'
+      -
+        correct: false
+        value: 'c momentum'
+      -
+        correct: false
+        value: 'd work'
+  -
+    text: 'The product of force and time is called ______'
+    options:
+      -
+        correct: false
+        value: 'a pressure'
+      -
+        correct: true
+        value: 'b impulse'
+      -
+        correct: false
+        value: 'c momentum'
+      -
+        correct: false
+        value: 'd work'
+  -
+    text: 'The product of mass and velocity is called ______'
+    options:
+      -
+        correct: false
+        value: 'a pressure'
+      -
+        correct: true
+        value: 'b impulse'
+      -
+        correct: false
+        value: 'c momentum'
+      -
+        correct: false
+        value: 'd work'
+  -
+    text: 'The ratio of work to time is called ______'
+    options:
+      -
+        correct: false
+        value: 'a pressure'
+      -
+        correct: false
+        value: 'b impulse'
+      -
+        correct: true
+        value: 'c power'
+      -
+        correct: false
+        value: 'd work'
+  -
+    text: 'Resistance of a wire is measured in ________.'
+    options:
+      -
+        correct: false
+        value: 'a ampere'
+      -
+        correct: false
+        value: 'b voltage'
+      -
+        correct: false
+        value: 'c weber'
+      -
+        correct: true
+        value: 'd ohm'
+  -
+    text: 'Potential difference is measured in ________.'
+    options:
+      -
+        correct: false
+        value: 'a ampere'
+      -
+        correct: true
+        value: 'b voltage'
+      -
+        correct: false
+        value: 'c weber'
+      -
+        correct: false
+        value: 'd ohm'
+  -
+    text: 'Which of the following unit is a fundamental unit?'
+    options:
+      -
+        correct: true
+        value: 'a newton'
+      -
+        correct: false
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c ampere'
+      -
+        correct: false
+        value: 'd erg'
+  -
+    text: 'Which of the following is a fundamental quantity?'
+    options:
+      -
+        correct: false
+        value: 'a pressure'
+      -
+        correct: false
+        value: 'b impulse'
+      -
+        correct: false
+        value: 'c amount of substance'
+      -
+        correct: true
+        value: 'd work'
+  -
+    text: 'Which of the following is a fundamental quantity?'
+    options:
+      -
+        correct: false
+        value: 'a pressure'
+      -
+        correct: false
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c mass'
+      -
+        correct: true
+        value: 'd both b and c'
+  -
+    text: 'Which of the following is a fundamental quantity?'
+    options:
+      -
+        correct: true
+        value: 'a amount of substance'
+      -
+        correct: true
+        value: 'b luminous intensity'
+      -
+        correct: true
+        value: 'c electric current'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'Which of the following unit is a fundamental unit?'
+    options:
+      -
+        correct: false
+        value: 'a metre/second'
+      -
+        correct: true
+        value: 'b newton-metre'
+      -
+        correct: false
+        value: 'c ampere'
+      -
+        correct: false
+        value: 'd joule'
+  -
+    text: 'Steradian is the unit of _____.'
+    options:
+      -
+        correct: false
+        value: 'a density'
+      -
+        correct: true
+        value: 'b solid angle'
+      -
+        correct: false
+        value: 'c plane angle'
+      -
+        correct: false
+        value: 'd electric field'
+  -
+    text: 'Which of the following is a derived quantity?'
+    options:
+      -
+        correct: false
+        value: 'a amount of substance'
+      -
+        correct: false
+        value: 'b luminous intensity'
+      -
+        correct: false
+        value: 'c time'
+      -
+        correct: true
+        value: 'd pressure'
+  -
+    text: 'Which of the following unit is a derived unit?'
+    options:
+      -
+        correct: false
+        value: 'a candela'
+      -
+        correct: false
+        value: 'b ampere'
+      -
+        correct: false
+        value: 'c newton'
+      -
+        correct: true
+        value: 'd kelvin'
+  -
+    text: 'Which of the following unit is a derived unit?'
+    options:
+      -
+        correct: false
+        value: 'a candela'
+      -
+        correct: false
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c newton'
+      -
+        correct: true
+        value: 'd both b and c'
+  -
+    text: 'Which of the following unit is a derived unit?'
+    options:
+      -
+        correct: false
+        value: 'a metre/second'
+      -
+        correct: false
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c newton'
+      -
+        correct: true
+        value: 'd all of these'
+  -
+    text: 'Which of the following unit is a derived unit?'
+    options:
+      -
+        correct: false
+        value: 'a candela'
+      -
+        correct: false
+        value: 'b ampere'
+      -
+        correct: false
+        value: 'c pascal'
+      -
+        correct: true
+        value: 'd kelvin'
+  -
+    text: 'Which of the following unit is a derived unit?'
+    options:
+      -
+        correct: false
+        value: 'a candela'
+      -
+        correct: false
+        value: 'b ampere'
+      -
+        correct: false
+        value: 'c watt'
+      -
+        correct: true
+        value: 'd kelvin'
+      -
+    text: 'Which of the following unit is a derived unit?'
+    options:
+      -
+        correct: false
+        value: 'a tesla'
+      -
+        correct: false
+        value: 'b henry'
+      -
+        correct: false
+        value: 'c volt/metre'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'Which one of the following is wrong?
+    i) electric field- newton/coulomb
+    ii) electric intensity- volt/metre
+    iii) electric potential- volt
+    iv) electric charge- coulomb/metre'
+    options:
+      -
+        correct: true
+        value: 'a i'
+      -
+        correct: false
+        value: 'b ii'
+      -
+        correct: false
+        value: 'c iii'
+      -
+        correct: false
+        value: 'd iv'
+  -
+    text: 'Weber is the unit of _____.'
+    options:
+      -
+        correct: false
+        value: 'a electric field'
+      -
+        correct: true
+        value: 'b magnetic field'
+      -
+        correct: false
+        value: 'c magnetic flux'
+      -
+        correct: false
+        value: 'd electric flux'
+  -
+    text: 'Electric field intensity is measured in_____'
+    options:
+      -
+        correct: false
+        value: 'a newton/coulomb'
+      -
+        correct: true
+        value: 'b volt/metre'
+      -
+        correct: false
+        value: 'c weber/metre'
+      -
+        correct: false
+        value: 'd both a and b'
+  -
+    text: 'Magnetic field intensity is measured in_____'
+    options:
+      -
+        correct: false
+        value: 'a tesla'
+      -
+        correct: true
+        value: 'b Wb/m2'
+      -
+        correct: false
+        value: 'c N/Am'
+      -
+        correct: false
+        value: 'd all of these'
+  -
+    text: 'Centimetre/second is the unit of speed in_____'
+    options:
+      -
+        correct: false
+        value: 'a SI system'
+      -
+        correct: false
+        value: 'b MKS system'
+      -
+        correct: true
+        value: 'c CGS system'
+      -
+        correct: false
+        value: 'd all of the above'
+  -
+    text: 'The unit of area in MKS system is¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬________'
+    options:
+      -
+        correct: false
+        value: 'A hectare'
+      -
+        correct: false
+        value: 'b gunta'
+      -
+        correct: true
+        value: 'c square meter'
+      -
+        correct: false
+        value: 'd square feet'
+  -
+    text: 'The length of a rod is 7 meters. In this example, 7 is the____ and meter is the _______ of that quantity.'
+    options:
+      -
+        correct: false
+        value: 'a magnitude, unit'
+      -
+        correct: true
+        value: 'b unit, magnitude'
+      -
+        correct: false
+        value: 'c magnitude, direction'
+      -
+        correct: false
+        value: 'd direction, unit'
+  -
+    text: 'The parameter used for calculating the weight of a man is_______'
+    options:
+      -
+        correct: false
+        value: 'a length'
+      -
+        correct: true
+        value: 'b mass'
+      -
+        correct: false
+        value: 'c time'
+      -
+        correct: false
+        value: 'd none of these'
+  -
+    text: 'The dimensional symbol of luminous intensity is________.'
+    options:
+      -
+        correct: false
+        value: 'a L'
+      -
+        correct: false
+        value: 'b C'
+      -
+        correct: false
+        value: 'c A'
+      -
+        correct: true
+        value: 'd K'
+  -
+    text: 'The dimensional symbol of electric current is________.'
+    options:
+      -
+        correct: false
+        value: 'a mol'
+      -
+        correct: false
+        value: 'b I'
+      -
+        correct: false
+        value: 'c C'
+      -
+        correct: true
+        value: 'd T'
+  -
+    text: 'In SI system, temperature is measured in'
+    options:
+      -
+        correct: false
+        value: 'A degree fahrenheit'
+      -
+        correct: false
+        value: 'b degree rankine'
+      -
+        correct: false
+        value: 'c degree joule'
+      -
+        correct: true
+        value: 'd degree kelvin'
+  -
+    text: 'The physical quantity having unit of mass is ________ .'
+    options:
+      -
+        correct: false
+        value: 'a density'
+      -
+        correct: false
+        value: 'b momentum'
+      -
+        correct: false
+        value: 'c inertia'
+      -
+        correct: true
+        value: 'd force'
+  -
+    text: 'Which of the physical quantity remains the same for all unit systems?'
+    options:
+      -
+        correct: false
+        value: 'a second'
+      -
+        correct: false
+        value: 'b meter'
+      -
+        correct: false
+        value: 'c ampere'
+      -
+        correct: true
+        value: 'd kilogram'
+  -
+    text: 'Farad is the unit of ______.'
+    options:
+      -
+        correct: false
+        value: 'a resistance'
+      -
+        correct: false
+        value: 'b voltage'
+      -
+        correct: false
+        value: 'c magnetic field'
+      -
+        correct: true
+        value: 'd capacitance'
+  -
+    text: 'Which among the following is an example of a vector quantity?'
+    options:
+      -
+        correct: false
+        value: 'a time'
+      -
+        correct: false
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c work'
+      -
+        correct: true
+        value: 'd force'
+  -
+    text: '1 J/s = _____.'
+    options:
+      -
+        correct: true
+        value: 'a watt'
+      -
+        correct: false
+        value: 'b newton'
+      -
+        correct: false
+        value: 'c pascal'
+      -
+        correct: false
+        value: 'd kilogram'
+  -
+    text: 'Electron volt is a unit of _____.'
+    options:
+      -
+        correct: false
+        value: 'a charge'
+      -
+        correct: false
+        value: 'b potential difference'
+      -
+        correct: true
+        value: 'c energy'
+      -
+        correct: false
+        value: 'd magnetic force'
+  -
+    text: 'Which of the following is not the unit of energy ______.'
+    options:
+      -
+        correct: false
+        value: 'a calorie'
+      -
+        correct: false
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c newton-metre'
+      -
+        correct: true
+        value: 'd pascal'
+  -
+    text: 'Kg-m/s is the SI unit of _________.'
+    options:
+      -
+        correct: false
+        value: 'a velocity'
+      -
+        correct: false
+        value: 'b stress'
+      -
+        correct: false
+        value: 'c pressure'
+      -
+        correct: true
+        value: 'd momentum'
+  -
+    text: 'The quantity which has both magnitude and direction is called ______.'
+    options:
+      -
+        correct: false
+        value: 'a scalar quantity'
+      -
+        correct: true
+        value: 'b vector quantity'
+      -
+        correct: false
+        value: 'c chemical quantity'
+      -
+        correct: false
+        value: 'd magnitude quantity'
+  -
+    text: 'The quantity which has only magnitude is called ______.'
+    options:
+      -
+        correct: false
+        value: 'a scalar quantity'
+      -
+        correct: false
+        value: 'b vector quantity'
+      -
+        correct: false
+        value: 'c chemical quantity'
+      -
+        correct: true
+        value: 'd magnitude quantity'
+  -
+    text: 'Which of the following is a physical quantity that has both magnitude and direction?'
+    options:
+      -
+        correct: false
+        value: 'a temperature'
+      -
+        correct: true
+        value: 'b force'
+      -
+        correct: false
+        value: 'c time'
+      -
+        correct: false
+        value: 'd luminous intensity'
+  -
+    text: 'Which of the following is not a vector quantity?'
+    options:
+      -
+        correct: false
+        value: 'a impulse'
+      -
+        correct: true
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c stress'
+      -
+        correct: false
+        value: 'd impulse'
+  -
+    text: 'Identify the true statement among the following:'
+    options:
+      -
+        correct: false
+        value: 'a length is a scalar quantity while pressure is a vector quantity.'
+      -
+        correct: false
+        value: 'b length is a vector quantity while pressure is scalar quantity.'
+      -
+        correct: true
+        value: 'c Both pressure and length are scalar quantities.'
+      -
+        correct: false
+        value: 'd Both pressure and length are vector quantities.'
+  -
+    text: 'Choose the only vector quantity from the following physical quantities:'
+    options:
+      -
+        correct: true
+        value: 'a power'
+      -
+        correct: false
+        value: 'b electric current'
+      -
+        correct: false
+        value: 'c length'
+      -
+        correct: false
+        value: 'd density'
+  -
+    text: 'Which of the following is TRUE about mass and weight?'
+    options:
+      -
+        correct: false
+        value: 'a Mass is a scalar quantity and weight is a vector quantity'
+      -
+        correct: false
+        value: 'b Both mass and weight are vector quantities'
+      -
+        correct: false
+        value: 'c Both mass and weight are scalar quantities'
+      -
+        correct: true
+        value: 'd Mass is a vector quantity and weight is a scalar quantity'
+  -
+    text: 'One kilometer is equal to how many miles?'
+    options:
+      -
+        correct: false
+        value: 'a 0.84'
+      -
+        correct: false
+        value: 'b 0.5'
+      -
+        correct: false
+        value: 'c 1.6'
+      -
+        correct: true
+        value: 'd 0.625'
+      -
+    text: 'Bar is the unit of ____'
+    options:
+      -
+        correct: false
+        value: 'a Temperature'
+      -
+        correct: false
+        value: 'b Heat'
+      -
+        correct: true
+        value: 'c Atmospheric pressure'
+      -
+        correct: false
+        value: 'd Current'
+  -
+    text: 'Impulse is a ______ quantity.'
+    options:
+      -
+        correct: true
+        value: 'a vector'
+      -
+        correct: false
+        value: 'b scalar'
+      -
+        correct: false
+        value: 'c space'
+      -
+        correct: false
+        value: 'd base'
+  -
+    text: 'Momentum is a ______ quantity.'
+    options:
+      -
+        correct: false
+        value: 'a space'
+      -
+        correct: true
+        value: 'b vector'
+      -
+        correct: false
+        value: 'c scalar'
+      -
+        correct: false
+        value: 'd Both scalar and vector'
+  -
+    text: 'Pick out the only scalar quantity from the following physical quantities:'
+    options:
+      -
+        correct: false
+        value: 'a luminous intensity'
+      -
+        correct: false
+        value: 'b electric field intensity'
+      -
+        correct: false
+        value: 'c magnetic field intensity'
+      -
+        correct: true
+        value: 'd force'
+  -
+    text: '1 mile = _____.'
+    options:
+      -
+        correct: true
+        value: 'a 1.6 km'
+      -
+        correct: false
+        value: 'b 1.2 km'
+      -
+        correct: false
+        value: 'c 0.625 km'
+      -
+        correct: false
+        value: 'd 1.84 km'
+  -
+    text: '1 joule = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 10-7 erg'
+      -
+        correct: false
+        value: 'b 107 erg'
+      -
+        correct: true
+        value: 'c 105 erg'
+      -
+        correct: false
+        value: 'd 10-5 erg'
+  -
+    text: '1 newton = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 10-7 dyne'
+      -
+        correct: false
+        value: 'b 107 erg'
+      -
+        correct: false
+        value: 'c 105 dyne'
+      -
+        correct: true
+        value: 'd 10-5 erg'
+  -
+    text: '1 kg-m/s = ______ g-cm/s'
+    options:
+      -
+        correct: false
+        value: 'a 105'
+      -
+        correct: true
+        value: 'b 107'
+      -
+        correct: false
+        value: 'c 103'
+      -
+        correct: false
+        value: 'd 102'
+  -
+    text: '2000 pF = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 2000x10-6 F'
+      -
+        correct: false
+        value: 'b 2000x10-9 F'
+      -
+        correct: true
+        value: 'c 2000x10-3 F'
+      -
+        correct: false
+        value: 'd 2000x10-12 F'
+  -
+    text: '75 nm = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 75x10-9 m'
+      -
+        correct: true
+        value: 'b 75x10-6 m'
+      -
+        correct: false
+        value: 'c 75x10-3 m'
+      -
+        correct: false
+        value: 'd 75x10-1 m'
+  -
+    text: '2500 µm = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 2500x10-9 m'
+      -
+        correct: false
+        value: 'b 2500x10-4 m'
+      -
+        correct: false
+        value: 'c 2500x10-3 m'
+      -
+        correct: true
+        value: 'd 2500x10-6 m'
+  -
+    text: '45 GHz =______.'
+    options:
+      -
+        correct: false
+        value: 'a 45x106 Hz'
+      -
+        correct: false
+        value: 'b 45x109 Hz'
+      -
+        correct: true
+        value: 'c 45x10-6 Hz'
+      -
+        correct: false
+        value: 'd 45x10-9 Hz'
+  -
+    text: '15 MHz =______.'
+    options:
+      -
+        correct: false
+        value: 'a 15x106 Hz'
+      -
+        correct: false
+        value: 'b 15x109 Hz'
+      -
+        correct: true
+        value: 'c 15x10-6 Hz'
+      -
+        correct: false
+        value: 'd 15x10-9 Hz'
+  -
+    text: '1 AU = _______'
+    options:
+      -
+        correct: false
+        value: 'a 10-11 m'
+      -
+        correct: false
+        value: 'b 10-8 m'
+      -
+        correct: true
+        value: 'c 10-10 m'
+      -
+        correct: false
+        value: 'd 10-6 m'
+  -
+    text: '1 eV = _______.'
+    options:
+      -
+        correct: false
+        value: 'a 1.6x10-12 J'
+      -
+        correct: true
+        value: 'b 1.6x10-19 J'
+      -
+        correct: false
+        value: 'c 1.6x10-9 J'
+      -
+        correct: false
+        value: 'd 1.6x10-29 J'
+
