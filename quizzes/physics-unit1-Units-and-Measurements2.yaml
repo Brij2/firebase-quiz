@@ -1,0 +1,441 @@
+id: physics-unit1-Units-and-Measurements2
+title: 'Units and Measurements Part 2'
+description: 'This unit covers the basics of units and measurements in physics.'
+topic: Units-and-Measurements-Part-2
+questions:
+  -
+    text: 'Farad is the unit of ______.'
+    options:
+      -
+        correct: false
+        value: 'a resistance'
+      -
+        correct: false
+        value: 'b voltage'
+      -
+        correct: false
+        value: 'c magnetic field'
+      -
+        correct: true
+        value: 'd capacitance'
+  -
+    text: 'Which among the following is an example of a vector quantity?'
+    options:
+      -
+        correct: false
+        value: 'a time'
+      -
+        correct: false
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c work'
+      -
+        correct: true
+        value: 'd force'
+  -
+    text: '1 J/s = _____.'
+    options:
+      -
+        correct: true
+        value: 'a watt'
+      -
+        correct: false
+        value: 'b newton'
+      -
+        correct: false
+        value: 'c pascal'
+      -
+        correct: false
+        value: 'd kilogram'
+  -
+    text: 'Electron volt is a unit of _____.'
+    options:
+      -
+        correct: false
+        value: 'a charge'
+      -
+        correct: false
+        value: 'b potential difference'
+      -
+        correct: true
+        value: 'c energy'
+      -
+        correct: false
+        value: 'd magnetic force'
+  -
+    text: 'Which of the following is not the unit of energy ______.'
+    options:
+      -
+        correct: false
+        value: 'a calorie'
+      -
+        correct: false
+        value: 'b joule'
+      -
+        correct: false
+        value: 'c newton-metre'
+      -
+        correct: true
+        value: 'd pascal'
+  -
+    text: 'Kg-m/s is the SI unit of _________.'
+    options:
+      -
+        correct: false
+        value: 'a velocity'
+      -
+        correct: false
+        value: 'b stress'
+      -
+        correct: false
+        value: 'c pressure'
+      -
+        correct: true
+        value: 'd momentum'
+  -
+    text: 'The quantity which has both magnitude and direction is called ______.'
+    options:
+      -
+        correct: false
+        value: 'a scalar quantity'
+      -
+        correct: true
+        value: 'b vector quantity'
+      -
+        correct: false
+        value: 'c chemical quantity'
+      -
+        correct: false
+        value: 'd magnitude quantity'
+  -
+    text: 'The quantity which has only magnitude is called ______.'
+    options:
+      -
+        correct: false
+        value: 'a scalar quantity'
+      -
+        correct: false
+        value: 'b vector quantity'
+      -
+        correct: false
+        value: 'c chemical quantity'
+      -
+        correct: true
+        value: 'd magnitude quantity'
+  -
+    text: 'Which of the following is a physical quantity that has both magnitude and direction?'
+    options:
+      -
+        correct: false
+        value: 'a temperature'
+      -
+        correct: true
+        value: 'b force'
+      -
+        correct: false
+        value: 'c time'
+      -
+        correct: false
+        value: 'd luminous intensity'
+  -
+    text: 'Which of the following is not a vector quantity?'
+    options:
+      -
+        correct: false
+        value: 'a impulse'
+      -
+        correct: true
+        value: 'b temperature'
+      -
+        correct: false
+        value: 'c stress'
+      -
+        correct: false
+        value: 'd impulse'
+  -
+    text: 'Identify the true statement among the following:'
+    options:
+      -
+        correct: false
+        value: 'a length is a scalar quantity while pressure is a vector quantity.'
+      -
+        correct: false
+        value: 'b length is a vector quantity while pressure is scalar quantity.'
+      -
+        correct: true
+        value: 'c Both pressure and length are scalar quantities.'
+      -
+        correct: false
+        value: 'd Both pressure and length are vector quantities.'
+  -
+    text: 'Choose the only vector quantity from the following physical quantities:'
+    options:
+      -
+        correct: true
+        value: 'a power'
+      -
+        correct: false
+        value: 'b electric current'
+      -
+        correct: false
+        value: 'c length'
+      -
+        correct: false
+        value: 'd density'
+  -
+    text: 'Which of the following is TRUE about mass and weight?'
+    options:
+      -
+        correct: false
+        value: 'a Mass is a scalar quantity and weight is a vector quantity'
+      -
+        correct: false
+        value: 'b Both mass and weight are vector quantities'
+      -
+        correct: false
+        value: 'c Both mass and weight are scalar quantities'
+      -
+        correct: true
+        value: 'd Mass is a vector quantity and weight is a scalar quantity'
+  -
+    text: 'One kilometer is equal to how many miles?'
+    options:
+      -
+        correct: false
+        value: 'a 0.84'
+      -
+        correct: false
+        value: 'b 0.5'
+      -
+        correct: false
+        value: 'c 1.6'
+      -
+        correct: true
+        value: 'd 0.625'
+      -
+    text: 'Bar is the unit of ____'
+    options:
+      -
+        correct: false
+        value: 'a Temperature'
+      -
+        correct: false
+        value: 'b Heat'
+      -
+        correct: true
+        value: 'c Atmospheric pressure'
+      -
+        correct: false
+        value: 'd Current'
+  -
+    text: 'Impulse is a ______ quantity.'
+    options:
+      -
+        correct: true
+        value: 'a vector'
+      -
+        correct: false
+        value: 'b scalar'
+      -
+        correct: false
+        value: 'c space'
+      -
+        correct: false
+        value: 'd base'
+  -
+    text: 'Momentum is a ______ quantity.'
+    options:
+      -
+        correct: false
+        value: 'a space'
+      -
+        correct: true
+        value: 'b vector'
+      -
+        correct: false
+        value: 'c scalar'
+      -
+        correct: false
+        value: 'd Both scalar and vector'
+  -
+    text: 'Pick out the only scalar quantity from the following physical quantities:'
+    options:
+      -
+        correct: false
+        value: 'a luminous intensity'
+      -
+        correct: false
+        value: 'b electric field intensity'
+      -
+        correct: false
+        value: 'c magnetic field intensity'
+      -
+        correct: true
+        value: 'd force'
+  -
+    text: '1 mile = _____.'
+    options:
+      -
+        correct: true
+        value: 'a 1.6 km'
+      -
+        correct: false
+        value: 'b 1.2 km'
+      -
+        correct: false
+        value: 'c 0.625 km'
+      -
+        correct: false
+        value: 'd 1.84 km'
+  -
+    text: '1 joule = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 10-7 erg'
+      -
+        correct: false
+        value: 'b 107 erg'
+      -
+        correct: true
+        value: 'c 105 erg'
+      -
+        correct: false
+        value: 'd 10-5 erg'
+  -
+    text: '1 newton = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 10-7 dyne'
+      -
+        correct: false
+        value: 'b 107 erg'
+      -
+        correct: false
+        value: 'c 105 dyne'
+      -
+        correct: true
+        value: 'd 10-5 erg'
+  -
+    text: '1 kg-m/s = ______ g-cm/s'
+    options:
+      -
+        correct: false
+        value: 'a 105'
+      -
+        correct: true
+        value: 'b 107'
+      -
+        correct: false
+        value: 'c 103'
+      -
+        correct: false
+        value: 'd 102'
+  -
+    text: '2000 pF = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 2000x10-6 F'
+      -
+        correct: false
+        value: 'b 2000x10-9 F'
+      -
+        correct: true
+        value: 'c 2000x10-3 F'
+      -
+        correct: false
+        value: 'd 2000x10-12 F'
+  -
+    text: '75 nm = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 75x10-9 m'
+      -
+        correct: true
+        value: 'b 75x10-6 m'
+      -
+        correct: false
+        value: 'c 75x10-3 m'
+      -
+        correct: false
+        value: 'd 75x10-1 m'
+  -
+    text: '2500 µm = ______.'
+    options:
+      -
+        correct: false
+        value: 'a 2500x10-9 m'
+      -
+        correct: false
+        value: 'b 2500x10-4 m'
+      -
+        correct: false
+        value: 'c 2500x10-3 m'
+      -
+        correct: true
+        value: 'd 2500x10-6 m'
+  -
+    text: '45 GHz =______.'
+    options:
+      -
+        correct: false
+        value: 'a 45x106 Hz'
+      -
+        correct: false
+        value: 'b 45x109 Hz'
+      -
+        correct: true
+        value: 'c 45x10-6 Hz'
+      -
+        correct: false
+        value: 'd 45x10-9 Hz'
+  -
+    text: '15 MHz =______.'
+    options:
+      -
+        correct: false
+        value: 'a 15x106 Hz'
+      -
+        correct: false
+        value: 'b 15x109 Hz'
+      -
+        correct: true
+        value: 'c 15x10-6 Hz'
+      -
+        correct: false
+        value: 'd 15x10-9 Hz'
+  -
+    text: '1 AU = _______'
+    options:
+      -
+        correct: false
+        value: 'a 10-11 m'
+      -
+        correct: false
+        value: 'b 10-8 m'
+      -
+        correct: true
+        value: 'c 10-10 m'
+      -
+        correct: false
+        value: 'd 10-6 m'
+  -
+    text: '1 eV = _______.'
+    options:
+      -
+        correct: false
+        value: 'a 1.6x10-12 J'
+      -
+        correct: true
+        value: 'b 1.6x10-19 J'
+      -
+        correct: false
+        value: 'c 1.6x10-9 J'
+      -
+        correct: false
+        value: 'd 1.6x10-29 J'
+

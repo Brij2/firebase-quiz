@@ -1,8 +1,12 @@
 quizzes:
     -
-        title: Units and Measurements
-        description: 'Units and Measurements '
-        id: physics-unit1-Units-and-Measurements
+        title: Units and Measurements Part 1
+        description: 'Units and Measurements Part 1'
+        id: physics-unit1-Units-and-Measurements1
+    -
+        title: Units and Measurements Part 2
+        description: 'Units and Measurements Part 2'
+        id: physics-unit1-Units-and-Measurements2
     -
         title: Dimensions
         description: ' Dimensions '

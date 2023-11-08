@@ -1,0 +1,1383 @@
+id: physics-unit2-ELECTROSTATICS-AND-MAGNETISM2
+title: 'ELECTROSTATICS-AND-MAGNETISM 2'
+description: 'This unit covers the basics of ELECTROSTATICS AND MAGNETISM in physics.'
+topic: ELECTROSTATICS-AND-MAGNETISM-2
+questions:
+    -
+      text: 'The excess or deficiency of an electron in a body gives the concept of ________.'
+      options:
+          -
+              correct: false
+              value: proton
+              detail: 'Nope, that''s not the concept related to the excess or deficiency of an electron.'
+          -
+              correct: false
+              value: current
+              detail: 'No, this is related to the flow of electrons, not the excess or deficiency.'
+          -
+              correct: false
+              value: neutron
+              detail: 'No, neutrons are not related to the concept of excess or deficiency of electrons.'
+          -
+              correct: true
+              value: charge
+              detail: 'Correct! Excess or deficiency of electrons is related to electric charge.'
+    -
+        text: 'The electricity developed on a body when it is rubbed on another body is called'
+        options:
+            -
+                correct: true
+                value: 'Frictional electricity'
+            -
+                correct: false
+                value: 'Magnetic electricity'
+                detail: 'No, this is not the term for electricity developed by rubbing.'
+            -
+                correct: false
+                value: 'Current electricity'
+                detail: 'No, current electricity is a different concept.'
+            -
+                correct: false
+                value: 'None of these'
+                detail: 'No, its called frictional electricity.'
+    -
+        text: 'The types of electric charges are_____'
+        options:
+            -
+                correct: false
+                value: 'small and large'
+                detail: 'No, its not about the size of charges.'
+            -
+                correct: true
+                value: 'positive and negative'
+                detail: 'Correct! Electric charges can be positive or negative.'
+            -
+                correct: false
+                value: 'north and south'
+                detail: 'No, this is related to magnetism, not electric charges.'
+            -
+                correct: false
+                value: 'None of these'
+                detail: 'No, the correct answer is positive and negative.'
+    -
+        text: 'The like charges _________ each other and unlike charges ______ each other.'
+        options:
+            -
+                correct: true
+                value: 'attract, repel'
+            -
+                correct: false
+                value: 'increases, decreases'
+                detail: 'No, this is not the behavior of electric charges.'
+            -
+                correct: false
+                value: 'repel, attracts'
+                detail: 'No, this is the opposite behavior of electric charges.'
+            -
+                correct: false
+                value: 'decreases, increase'
+                detail: 'No, this is not how electric charges behave.'
+    -
+        text: 'The force of attraction or repulsion between two electric charges is known as'
+        options:
+            -
+                correct: false
+                value: 'Magnetic force'
+                detail: 'No, this is a different force related to magnets.'
+            -
+                correct: false
+                value: 'Mechanical force'
+                detail: 'No, this is a general term for forces in mechanics.'
+            -
+                correct: true
+                value: 'Electrostatic force'
+                detail: 'Correct! its the force between electric charges.'
+            -
+                correct: false
+                value: 'Frictional force'
+                detail: 'No, this is related to friction, not electric charges.'
+    -
+        text: 'The protons and electrons create electric fields which exert a force called _______.'
+        options:
+            -
+                correct: true
+                value: "Coulomb's force"
+            -
+                correct: false
+                value: "Joule's force"
+                detail: "No, Joule's force is related to energy."
+            -
+                correct: false
+                value: "Newton's force"
+                detail: "No, Newton's force is related to mechanics."
+            -
+                correct: false
+                value: "Ampere's force"
+                detail: "No, Ampere's force is related to currents."
+    -
+        text: 'The principle of conservation of charges state that, the total charges on an isolated system remains,'
+        options:
+            -
+                correct: true
+                value: constant
+            -
+                correct: false
+                value: variable
+                detail: 'No, the principle of conservation of charges implies constancy.'
+            -
+                correct: false
+                value: Small
+                detail: 'No, the principle implies that charges remain constant, not necessarily small.'
+            -
+                correct: false
+                value: Large
+                detail: 'No, the principle implies that charges remain constant, not necessarily large.'
+    -
+        text: 'Which of the following is a correct statement?'
+        options:
+            -
+                correct: false
+                value: 'Like charges attract and unlike charges repel each other'
+                detail: 'No, this statement is incorrect.'
+            -
+                correct: true
+                value: 'Like as well as unlike charges attract each other'
+            -
+                correct: false
+                value: 'Unlike charges attract each other and like charges repel each other'
+                detail: 'No, this statement is incorrect.'
+            -
+                correct: false
+                value: 'Like as well as unlike charges repel each other'
+                detail: 'No, this statement is incorrect.'
+    -
+        text: 'The unit of electric charge is,'
+        options:
+            -
+                correct: true
+                value: coulomb
+            -
+                correct: false
+                value: weber
+                detail: 'No, weber is not the unit of electric charge.'
+            -
+                correct: false
+                value: joule
+                detail: 'No, joule is a unit of energy.'
+            -
+                correct: false
+                value: ampere
+                detail: 'No, ampere is a unit of electric current.'
+    -
+        text: 'The force of attraction or repulsion between two electric charges at rest is______.'
+        options:
+            -
+                correct: true
+                value: 'directly proportional to the product of the magnitude of two charges.'
+            -
+                correct: false
+                value: 'inversely proportional to the product of the magnitude of two charges'
+                detail: 'No, it is directly proportional, not inversely.'
+            -
+                correct: false
+                value: 'directly proportional to the square of the distance between two charges.'
+                detail: 'No, it is directly proportional to the product of the charges.'
+            -
+                correct: false
+                value: 'inversely proportional to the distance between two charges.'
+                detail: 'No, it is directly proportional, not inversely.'
+    -
+        text: 'As the distance between two electric charges increases, the force between them _______.'
+        options:
+            -
+                correct: true
+                value: increases
+            -
+                correct: false
+                value: zero
+                detail: 'No, the force does not become zero with increased distance.'
+            -
+                correct: false
+                value: same
+                detail: 'No, the force changes with distance.'
+            -
+                correct: false
+                value: decreases
+                detail: 'No, the force increases with distance.'
+    -
+        text: 'If two equal and similar charges are separated by one meter apart and exert a force of 9 x 10^9 N, then each charge is said to be _______.'
+        options:
+            -
+                correct: false
+                value: 'one farad'
+                detail: 'No, farad is a unit of capacitance, not charge.'
+            -
+                correct: false
+                value: 'one newton'
+                detail: 'No, newton is a unit of force.'
+            -
+                correct: true
+                value: 'one coulomb'
+            -
+                correct: false
+                value: 'one joule'
+                detail: 'No, joule is a unit of energy, not charge.'
+    -
+        text: 'As the distance between two electric charges decreases, the electrostatic force between them___'
+        options:
+            -
+                correct: true
+                value: 'Increases'
+            -
+                correct: false
+                value: 'Decreases'
+                detail: 'No, it increases as the distance decreases.'
+            -
+                correct: false
+                value: 'Remains same'
+                detail: 'No, it changes with distance.'
+            -
+                correct: false
+                value: 'Reduces'
+                detail: 'No, it increases as the distance decreases.'
+    -
+        text: 'The force of repulsion between two unit charges placed unit distance apart in air medium is'
+        options:
+            -
+                correct: false
+                value: '3 x 10^8 N'
+                detail: 'No, this is not the force of repulsion between unit charges in air.'
+            -
+                correct: false
+                value: '8.85 x 10^9 N'
+                detail: 'No, this value is not correct for the force between unit charges in air.'
+            -
+                correct: true
+                value: '9 x 10^9 N'
+            -
+                correct: false
+                value: '6.25 x 10^-9 N'
+                detail: 'No, this is not the force of repulsion between unit charges in air.'
+    -
+        text: 'The ratio of permittivity of the medium to permittivity of vacuum is called_____'
+        options:
+            -
+                correct: false
+                value: 'permittivity constant'
+                detail: 'No, this is not the correct term for the ratio.'
+            -
+                correct: false
+                value: 'Magnetic Constant'
+                detail: 'No, this term is related to magnetism, not permittivity.'
+            -
+                correct: false
+                value: 'dielectric constant'
+                detail: 'No, dielectric constant is different from this ratio.'
+            -
+                correct: true
+                value: 'joules constant'
+    -
+        text: 'The dielectric constant of air medium is ______.'
+        options:
+            -
+                correct: false
+                value: zero
+                detail: 'No, air has a dielectric constant greater than zero.'
+            -
+                correct: false
+                value: one
+                detail: 'No, air dielectric constant is not exactly one.'
+            -
+                correct: false
+                value: two
+                detail: 'No, air dielectric constant is not exactly two.'
+            -
+                correct: true
+                value: infinity
+    -
+        text: 'The value of dielectric constant of a medium other than air is _______.'
+        options:
+            -
+                correct: false
+                value: zero
+                detail: 'No, dielectric constants are typically greater than zero.'
+            -
+                correct: true
+                value: one
+            -
+                correct: false
+                value: 'less than one'
+                detail: 'its usually greater than one for most materials.'
+            -
+                correct: false
+                value: 'greater than one'
+                detail: 'its typically greater than one, but not necessarily greater.'
+    -
+        text: 'The dielectric constant of metal is _______.'
+        options:
+            -
+                correct: true
+                value: infinity
+            -
+                correct: false
+                value: zero
+                detail: 'No, metals have a dielectric constant greater than zero.'
+            -
+                correct: false
+                value: one
+                detail: 'No, its not one.'
+            -
+                correct: false
+                value: 'greater than one'
+                detail: 'its not just greater than one; its actually infinity.'
+    -
+        text: 'Materials which dont allow current to flow through them but show electrical effects are called as'
+        options:
+            -
+                correct: true
+                value: dielectrics
+            -
+                correct: false
+                value: electrics
+                detail: 'No, "electrics" is not a term for such materials.'
+            -
+                correct: false
+                value: conductors
+                detail: 'No, conductors allow current to flow.'
+            -
+                correct: false
+                value: superconductors
+                detail: 'Superconductors can carry current without resistance, unlike dielectrics.'
+    -
+        text: 'Two charges of magnitude each of 5μC and 10μC separated by a distance of 1 m from each other, the magnitude of force between the charges is ______.'
+        options:
+            -
+                correct: false
+                value: '0.450 N'
+                detail: 'No, the correct answer is not 0.450 N.'
+            -
+                correct: false
+                value: '4.50 N'
+                detail: 'No, this is not the correct value for the force.'
+            -
+                correct: false
+                value: '45.0 N'
+                detail: 'No, this is not the correct value for the force.'
+            -
+                correct: true
+                value: '450 N'
+    -
+        text: 'Two like charges of 30µC are placed 4 cm apart in a medium of dielectric constant 3. The force between them___'
+        options:
+            -
+                correct: true
+                value: '1687.5N'
+            -
+                correct: false
+                value: '18.75N'
+                detail: 'No, the correct answer is not 18.75 N.'
+            -
+                correct: false
+                value: '2650.5N'
+                detail: 'No, this is not the correct value for the force.'
+            -
+                correct: false
+                value: '185.2N'
+                detail: 'No, this is not the correct value for the force.'
+    -
+        text: 'The force between two charges is 400 N. If the distance between the charges is doubled, the force will be ________.'
+        options:
+            -
+                correct: false
+                value: '400 N'
+                detail: 'No, the force is not the same when the distance is doubled.'
+            -
+                correct: false
+                value: '100 N'
+                detail: 'No, its not 100 N.'
+            -
+                correct: true
+                value: '50 N'
+                detail: 'Correct! The force is inversely proportional to the square of the distance.'
+            -
+                correct: false
+                value: '200 N'
+                detail: 'No, its not 200 N.'
+    -
+        text: 'The force between two charges is 400 N. If the dielectric constant between the charges is doubled, the force will be ________.'
+        options:
+            -
+                correct: false
+                value: '400 N'
+                detail: 'No, doubling the dielectric constant does not result in the same force.'
+            -
+                correct: true
+                value: '100 N'
+                detail: 'Correct! The force is inversely proportional to the dielectric constant.'
+            -
+                correct: false
+                value: '800 N'
+                detail: 'No, the force does not increase when the dielectric constant doubles.'
+            -
+                correct: false
+                value: '200 N'
+                detail: 'No, its not 200 N.'
+    # -
+    #     text: 'Two charges of 9C and 3C when placed in a dielectric medium at a distance of 3m will exert a force of 9  10-3 N. The dielectric constant of the medium is___.'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '4'
+    #             detail: 'No, the value of dielectric constant is not 4.'
+    #         -
+    #             correct: true
+    #             value: '3'
+    #             detail: 'Correct! The dielectric constant is 3 in this case.'
+    #         -
+    #             correct: false
+    #             value: '5'
+    #             detail: 'No, its not 5.'
+    #         -
+    #             correct: false
+    #             value: '2'
+    #             detail: 'No, its not 2.'
+    # -
+    #     text: 'Two charges of 20 C and 25 C are placed in a medium having a dielectric constant of 2.4 and experience a force of 9 N. The distance between two charges is___.'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '0.456cm'
+    #             detail: 'No, the distance is not 0.456cm.'
+    #         -
+    #             correct: true
+    #             value: '45.6cm'
+    #             detail: 'Correct! The distance is 45.6cm.'
+    #         -
+    #             correct: false
+    #             value: '4.56cm'
+    #             detail: 'No, its not 4.56cm.'
+    #         -
+    #             correct: false
+    #             value: '456cm'
+    #             detail: 'No, its not 456cm.'
+    # -
+    #     text: 'The factors affecting the force between two electric charges are____'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'dielectric constant of the medium'
+    #         -
+    #             correct: true
+    #             value: 'permittivity of the medium'
+    #         -
+    #             correct: true
+    #             value: 'distance between two charges'
+    #         -
+    #             correct: true
+    #             value: 'all of these'
+    # -
+    #     text: 'The space around an electric charge in which the force of attraction or repulsion is effective is known as____'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'electric field'
+    #         -
+    #             correct: false
+    #             value: 'magnetic field'
+    #             detail: 'No, this term is related to magnetism.'
+    #         -
+    #             correct: false
+    #             value: 'gravitational field'
+    #             detail: 'No, this is related to gravity, not electric charges.'
+    #         -
+    #             correct: false
+    #             value: 'none of these'
+    #             detail: 'No, the correct term is "electric field."'
+    # -
+    #     text: 'The force acting on a unit positive charge in the electric field is called  ______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'electric field intensity'
+    #         -
+    #             correct: false
+    #             value: 'electric field'
+    #             detail: 'No, its not just called "electric field."'
+    #         -
+    #             correct: false
+    #             value: 'pressure'
+    #             detail: 'No, "pressure" is not the term for this force.'
+    #         -
+    #             correct: false
+    #             value: 'magnetic field intensity'
+    #             detail: 'No, this is related to magnetism, not electric fields.'
+    # -
+    #     text: 'The intensity of electric field at a point due to a point charge is defined as____.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'Charge per unit electrostatic force'
+    #         -
+    #             correct: false
+    #             value: 'Product of charge and electrostatic force'
+    #             detail: 'No, its not the product of charge and force.'
+    #         -
+    #             correct: false
+    #             value: 'Charge per unit electric field'
+    #             detail: 'No, this is not the correct definition.'
+    #         -
+    #             correct: false
+    #             value: 'electrostatic force acting on unit positive charge at that point'
+    #             detail: 'No, its not the complete definition.'
+    # -
+    #     text: 'The unit of electric field intensity is ___.'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: 'C/N'
+    #             detail: 'No, the unit is not coulombs per newton.'
+    #         -
+    #             correct: false
+    #             value: 'N/C'
+    #             detail: 'No, the unit is not newtons per coulomb.'
+    #         -
+    #             correct: true
+    #             value: 'V/m'
+    #         -
+    #             correct: false
+    #             value: 'both a and b'
+    #             detail: 'No, the unit is volts per meter (V/m).'
+    # -
+    #     text: 'Volt/metre is the unit of ________ .'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: 'work'
+    #             detail: 'No, volt/metre is not the unit of work.'
+    #         -
+    #             correct: false
+    #             value: 'viscosity'
+    #             detail: 'No, its not related to viscosity.'
+    #         -
+    #             correct: true
+    #             value: 'electric field intensity'
+    #         -
+    #             correct: false
+    #             value: 'velocity'
+    #             detail: 'No, its not related to velocity.'
+    # -
+    #     text: 'Electric field intensity depends on ________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'charges'
+    #         -
+    #             correct: true
+    #             value: 'permittivity and dielectric constant of the medium'
+    #         -
+    #             correct: true
+    #             value: 'distance between two charges'
+    #         -
+    #             correct: true
+    #             value: 'all of the above'
+    # -
+    #     text: 'If the dielectric constant of the medium decreases, the electric field intensity is  ________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'decreases'
+    #         -
+    #             correct: false
+    #             value: 'increases'
+    #             detail: 'No, it decreases when the dielectric constant decreases.'
+    #         -
+    #             correct: false
+    #             value: 'same'
+    #             detail: 'No, it changes with the dielectric constant.'
+    #         -
+    #             correct: false
+    #             value: 'zero'
+    #             detail: 'No, it doesnt become zero when the dielectric constant decreases.'
+    # -
+    #     text: 'If a 40C charge is placed in an electric field and experiences a force of 4N, the electric field intensity is ___'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '0.1 N/C'
+    #             detail: 'No, the electric field intensity is not 0.1 N/C.'
+    #         -
+    #             correct: true
+    #             value: '10 N/C'
+    #             detail: 'Correct! The electric field intensity is 10 N/C.'
+    #         -
+    #             correct: false
+    #             value: '108 N/C'
+    #             detail: 'No, its not 108 N/C.'
+    #         -
+    #             correct: false
+    #             value: '105 N/C'
+    #             detail: 'No, its not 105 N/C.'
+    # -
+    #     text: 'An electron is placed in an electric field of intensity 103N/C. The force acting on the electron is ___'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '1.8 X 10^-19 N'
+    #             detail: 'No, the force on the electron is not 1.8 X 10^-19 N.'
+    #         -
+    #             correct: true
+    #             value: '1.6 X 10^-16 N'
+    #             detail: 'Correct! The force on the electron is 1.6 X 10^-16 N.'
+    #         -
+    #             correct: false
+    #             value: '2.6X 10^-22 N'
+    #             detail: 'No, its not 2.6X 10^-22 N.'
+    #         -
+    #             correct: false
+    #             value: '0.35 X 10^22 N'
+    #             detail: 'No, the force is not 0.35 X 10^22 N.'
+    # -
+    #     text: 'The force experienced by a test charge of 0.2C placed in an electric field of 3.2  10^6 N/C is___'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '0.64N'
+    #             detail: 'No, the force is not 0.64N.'
+    #         -
+    #             correct: true
+    #             value: '0.46N'
+    #             detail: 'Correct! The force is 0.46N.'
+    #         -
+    #             correct: false
+    #             value: '64N'
+    #             detail: 'No, the force is not 64N.'
+    #         -
+    #             correct: false
+    #             value: '46N'
+    #             detail: 'No, its not 46N.'
+    # -
+    #     text: 'A force of 4.5N acts on a charge of 1.5 X 10^-4C.  The intensity of the electric field at that point is ___'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '3.333 x 10^-3 N/C'
+    #             detail: 'No, the intensity is not 3.333 x 10^-3 N/C.'
+    #         -
+    #             correct: false
+    #             value: '3 x 10^4 N/C'
+    #             detail: 'No, its not 3 x 10^4 N/C.'
+    #         -
+    #             correct: true
+    #             value: '3.333 x 10^3 N/C'
+    #             detail: 'Correct! The intensity is 3.333 x 10^3 N/C.'
+    #         -
+    #             correct: false
+    #             value: '3 x 10^-4 N/C'
+    #             detail: 'No, its not 3 x 10^-4 N/C.'
+    # -
+    #     text: 'The intensity of electric field at a point 50cm away from a charge of 25mC in air is___'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: '9 x 10^8 N/C'
+    #         -
+    #             correct: false
+    #             value: '7 x 10^8 N/C'
+    #             detail: 'No, its not 7 x 10^8 N/C.'
+    #         -
+    #             correct: false
+    #             value: '8 x 10^8 N/C'
+    #             detail: 'No, its not 8 x 10^8 N/C.'
+    #         -
+    #             correct: false
+    #             value: '9 x 10^9 N/C'
+    #             detail: 'No, its not 9 x 10^9 N/C.'
+    # -
+    #     text: 'Calculate the intensity of electric field at a point 50cm from a charge of 45C in a medium of dielectric constant 2.5'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: '6.48 X 10^5 N/C'
+    #         -
+    #             correct: false
+    #             value: '64.8 X 10^5 N/C'
+    #             detail: 'No, its not 64.8 X 10^5 N/C.'
+    #         -
+    #             correct: false
+    #             value: '648 X 10^5 N/C'
+    #             detail: 'No, its not 648 X 10^5 N/C.'
+    #         -
+    #             correct: false
+    #             value: '0.648 X 10^5 N/C'
+    #             detail: 'No, its not 0.648 X 10^5 N/C.'
+    # -
+    #     text: 'The intensity of electric field at a point 2m in air is 9  10^3 N/C, the value of charge at that point is___'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '40C'
+    #             detail: 'No, the charge is not 40C.'
+    #         -
+    #             correct: false
+    #             value: '4C'
+    #             detail: 'No, the charge is not 4C.'
+    #         -
+    #             correct: true
+    #             value: '2C'
+    #             detail: 'Correct! The charge is 2C.'
+    #         -
+    #             correct: false
+    #             value: '9C'
+    #             detail: 'No, the charge is not 9C.'
+    # -
+    #     text: 'Electric potential is______'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'Work done per unit charge'
+    #         -
+    #             correct: false
+    #             value: 'Charge per unit work'
+    #             detail: 'No, electric potential is defined as work done per unit charge.'
+    #         -
+    #             correct: false
+    #             value: 'Force per unit charge'
+    #             detail: 'No, electric potential is not force per unit charge.'
+    #         -
+    #             correct: false
+    #             value: 'Charge per unit force'
+    #             detail: 'No, this is not the correct definition.'
+    # -
+    #     text: 'The unit of electric potential is _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'volt'
+    #         -
+    #             correct: false
+    #             value: 'ampere'
+    #             detail: 'No, ampere is not the unit of electric potential.'
+    #         -
+    #             correct: false
+    #             value: 'ohm'
+    #             detail: 'No, ohm is the unit of resistance, not electric potential.'
+    #         -
+    #             correct: false
+    #             value: 'newton'
+    #             detail: 'No, newton is the unit of force, not electric potential.'
+    # -
+    #     text: 'The work done per unit charge is called_______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'electric potential'
+    #         -
+    #             correct: false
+    #             value: 'electric intensity'
+    #             detail: 'No, this is not the term for work done per unit charge.'
+    #         -
+    #             correct: false
+    #             value: 'magnetic field'
+    #             detail: 'No, this is related to magnetism, not electric potential.'
+    #         -
+    #             correct: false
+    #             value: 'magnetic potential'
+    #             detail: 'No, this is not the correct term.'
+    # -
+    #     text: 'The SI unit of electric potential is _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'volt'
+    #         -
+    #             correct: false
+    #             value: 'volt/metre'
+    #             detail: 'No, volt/metre is not the unit of electric potential.'
+    #         -
+    #             correct: false
+    #             value: 'joule/coulomb'
+    #             detail: 'No, this is not the SI unit for electric potential.'
+    #         -
+    #             correct: false
+    #             value: 'newton-metre'
+    #             detail: 'No, this is not the unit for electric potential.'
+    # -
+    #     text: 'If the work done to move a charge of 100 C from one point to another is 9J, the electric potential is_____.'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '5  10^-4 V'
+    #             detail: 'No, the electric potential is not 5  10^-4 V.'
+    #         -
+    #             correct: true
+    #             value: '11.1  10^-6 V'
+    #             detail: 'Correct! The electric potential is 11.1  10^-6 V.'
+    #         -
+    #             correct: false
+    #             value: '5  10^4 V'
+    #             detail: 'No, its not 5  10^4 V.'
+    #         -
+    #             correct: false
+    #             value: '11.1  10^6 V'
+    #             detail: 'No, its not 11.1  10^6 V.'
+    # -
+    #     text: 'The electric potential at a distance of 30 cm from the charge of 30 C in air is_____.'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: '9  10^-5 V'
+    #             detail: 'No, the electric potential is not 9  10^-5 V.'
+    #         -
+    #             correct: false
+    #             value: '1.1  10^-6 V'
+    #             detail: 'No, its not 1.1  10^-6 V.'
+    #         -
+    #             correct: true
+    #             value: '90  10^5 V'
+    #             detail: 'Correct! The electric potential is 90  10^5 V.'
+    #         -
+    #             correct: false
+    #             value: '0.9  10^6 V'
+    #             detail: 'No, its not 0.9  10^6 V.'
+    # -
+    #     text: 'If the distance of a point from a charge is halved, the potential at the point becomes______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'double'
+    #         -
+    #             correct: false
+    #             value: '4 times'
+    #             detail: 'No, it does not become 4 times.'
+    #         -
+    #             correct: false
+    #             value: 'Half'
+    #             detail: 'No, its not half.'
+    #         -
+    #             correct: false
+    #             value: 'Same'
+    #             detail: 'No, it changes with distance.'
+    # -
+    #     text: 'If the distance of a point from a charge is doubled, the potential at the point becomes______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'half'
+    #         -
+    #             correct: false
+    #             value: 'double'
+    #             detail: 'No, it does not become double.'
+    #         -
+    #             correct: false
+    #             value: '4 times'
+    #             detail: 'No, its not 4 times.'
+    #         -
+    #             correct: false
+    #             value: 'same'
+    #             detail: 'No, it changes with distance.'
+    # -
+    #     text: 'One volt ='
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'joule/coulomb'
+    #         -
+    #             correct: false
+    #             value: 'joule x coulomb'
+    #             detail: 'No, its not joule x coulomb.'
+    #         -
+    #             correct: false
+    #             value: 'coulomb / joule'
+    #             detail: 'No, its not coulomb / joule.'
+    #         -
+    #             correct: false
+    #             value: 'joule /ampere'
+    #             detail: 'No, its not joule /ampere.'
+    # -
+    #     text: 'The region around a magnet in which its magnetic effects (attraction or repulsion) can be observed is called _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'magnetic field'
+    #         -
+    #             correct: false
+    #             value: 'electric field'
+    #             detail: 'No, this is related to electricity, not magnetism.'
+    #         -
+    #             correct: false
+    #             value: 'magnetic potential'
+    #             detail: 'No, this is not the correct term.'
+    #         -
+    #             correct: false
+    #             value: 'None of these'
+    #             detail: 'No, the correct term is "magnetic field."'
+    # -
+    #     text: 'The unit of magnetic field in SI is ______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'tesla'
+    #         -
+    #             correct: false
+    #             value: 'ohm'
+    #             detail: 'No, ohm is the unit of resistance, not magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'coulomb'
+    #             detail: 'No, coulomb is the unit of electric charge.'
+    #         -
+    #             correct: false
+    #             value: 'newton'
+    #             detail: 'No, newton is the unit of force, not magnetic field.'
+    # -
+    #     text: 'The intensity of magnetic field at a point is defined as _____'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: 'the force experienced by north pole kept at that point'
+    #             detail: 'No, this is not the correct definition.'
+    #         -
+    #             correct: true
+    #             value: 'the force experienced by south pole kept at that point'
+    #             detail: 'Correct! The intensity of magnetic field is defined by the force experienced by a south pole at that point.'
+    #         -
+    #             correct: false
+    #             value: 'the force experienced by centre of pole kept at that point'
+    #             detail: 'No, this is not the definition of magnetic field intensity.'
+    #         -
+    #             correct: false
+    #             value: 'none of these'
+    #             detail: 'No, its not "none of these."'
+    # -
+    #     text: 'The SI unit of magnetic field intensity ________ .'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'newton/ampere-metre'
+    #         -
+    #             correct: false
+    #             value: 'weber/m2'
+    #             detail: 'No, weber/m2 is not the SI unit of magnetic field intensity.'
+    #         -
+    #             correct: false
+    #             value: 'tesla'
+    #             detail: 'No, tesla is the unit of magnetic field, not intensity.'
+    #         -
+    #             correct: false
+    #             value: 'all of these'
+    #             detail: 'No, the SI unit is not all of these combined.'
+    # -
+    #     text: 'The SI unit of magnetic field intensity is _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'tesla'
+    #         -
+    #             correct: false
+    #             value: 'volt'
+    #             detail: 'No, volt is not the SI unit of magnetic field intensity.'
+    #         -
+    #             correct: false
+    #             value: 'ampere'
+    #             detail: 'No, ampere is the unit of electric current.'
+    #         -
+    #             correct: false
+    #             value: 'newton'
+    #             detail: 'No, newton is the unit of force, not magnetic field intensity.'
+    # -
+    #     text: 'The CGS unit of magnetic field intensity is ________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'gauss'
+    #         -
+    #             correct: false
+    #             value: 'ampere/metre'
+    #             detail: 'No, this is not the CGS unit of magnetic field intensity.'
+    #         -
+    #             correct: false
+    #             value: 'tesla'
+    #             detail: 'No, tesla is the SI unit, not CGS.'
+    #         -
+    #             correct: false
+    #             value: 'weber'
+    #             detail: 'No, weber is a different unit.'
+    # -
+    #     text: '1 tesla = _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: '105 gauss'
+    #         -
+    #             correct: false
+    #             value: '104 gauss'
+    #             detail: 'No, its not 104 gauss.'
+    #         -
+    #             correct: false
+    #             value: '106 gauss'
+    #             detail: 'No, its not 106 gauss.'
+    #         -
+    #             correct: false
+    #             value: '109 gauss'
+    #             detail: 'No, its not 109 gauss.'
+    # -
+    #     text: 'Magnetic field intensity is a____'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'vector quantity'
+    #         -
+    #             correct: false
+    #             value: 'scalar quantity'
+    #             detail: 'No, its not a scalar quantity.'
+    #         -
+    #             correct: false
+    #             value: 'scaler as well as vector'
+    #             detail: 'No, its not both scalar and vector.'
+    #         -
+    #             correct: false
+    #             value: 'None of these'
+    #             detail: 'No, its not "none of these."'
+    # -
+    #     text: 'Which of the following is not a property of Bar magnet?'
+    #     options:
+    #         -
+    #             correct: false
+    #             value: 'it attracts iron pieces'
+    #             detail: 'No, it attracts iron pieces.'
+    #         -
+    #             correct: false
+    #             value: 'it unlike poles repel each other and like poles attract each other'
+    #             detail: 'No, this is a property of magnets.'
+    #         -
+    #             correct: true
+    #             value: 'like poles repel each other and unlike poles attract each other'
+    #             detail: 'Correct! This is a property of magnets.'
+    #         -
+    #             correct: false
+    #             value: 'always rests in north-south direction'
+    #             detail: 'No, this is a characteristic of magnets.'
+    # -
+    #     text: 'The path along which a unit north pole will move when placed in a magnetic field is called______'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'magnetic lines of force'
+    #         -
+    #             correct: false
+    #             value: 'electric lines of force'
+    #             detail: 'No, this is not the term for magnetic field lines.'
+    #         -
+    #             correct: false
+    #             value: 'vector lines of force'
+    #             detail: 'No, its not "vector lines of force."'
+    #         -
+    #             correct: false
+    #             value: 'scaler lines of force'
+    #             detail: 'No, its not "scaler lines of force."'
+    # -
+    #     text: 'The magnetic lines of force start from the ________ and end on the _________ outside the magnet.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'north pole, south pole'
+    #         -
+    #             correct: false
+    #             value: 'south pole, east pole'
+    #             detail: 'No, it does not end on the east pole.'
+    #         -
+    #             correct: false
+    #             value: 'west pole to south pole'
+    #             detail: 'No, this is not the path of magnetic lines of force.'
+    #         -
+    #             correct: false
+    #             value: 'south pole to north pole'
+    #             detail: 'No, it does not start from the south pole.'
+    # -
+    #     text: 'Magnetic lines of force always move from________  outside  a bar magnet'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'north pole to south pole'
+    #         -
+    #             correct: false
+    #             value: 'south pole to north pole'
+    #             detail: 'No, its not from south to north.'
+    #         -
+    #             correct: false
+    #             value: 'east to west'
+    #             detail: 'No, its not from east to west.'
+    #         -
+    #             correct: false
+    #             value: 'west to east'
+    #             detail: 'No, its not from west to east.'
+    # -
+    #     text: 'Magnetic lines of force _______ intersect each other.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'never'
+    #         -
+    #             correct: false
+    #             value: 'always'
+    #             detail: 'No, magnetic lines of force never intersect.'
+    #         -
+    #             correct: false
+    #             value: 'sometimes'
+    #             detail: 'No, they do not intersect sometimes.'
+    #         -
+    #             correct: false
+    #             value: 'rarely'
+    #             detail: 'No, its not a rare occurrence.'
+    # -
+    #     text: 'The lines of force are crowded in a region where the magnetic field is _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'large'
+    #         -
+    #             correct: false
+    #             value: 'zero'
+    #             detail: 'No, the lines of force are not crowded in a zero magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'absent'
+    #             detail: 'No, its not crowded where the magnetic field is absent.'
+    #         -
+    #             correct: false
+    #             value: 'small'
+    #             detail: 'No, they are not crowded in a small magnetic field.'
+    # -
+    #     text: 'The lines of force are separated in a region where the magnetic field is _______.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'zero'
+    #         -
+    #             correct: false
+    #             value: 'small'
+    #             detail: 'No, they are not separated in a small magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'infinity'
+    #             detail: 'No, the lines do not separate to infinity.'
+    #         -
+    #             correct: false
+    #             value: 'all of these'
+    #             detail: 'No, its not all of these options.'
+    # -
+    #     text: 'In a uniform magnetic field, the lines of force are _________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'parallel'
+    #         -
+    #             correct: false
+    #             value: 'circular'
+    #             detail: 'No, they are not circular in a uniform magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'curved'
+    #             detail: 'No, they are not curved in a uniform magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'perpendicular'
+    #             detail: 'No, they are not perpendicular in a uniform field.'
+    # -
+    #     text: 'In a non-uniform magnetic field, the lines of force are _________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'curved'
+    #         -
+    #             correct: false
+    #             value: 'parallel'
+    #             detail: 'No, they are not parallel in a non-uniform field.'
+    #         -
+    #             correct: false
+    #             value: 'circular'
+    #             detail: 'No, they are not circular in a non-uniform field.'
+    #         -
+    #             correct: false
+    #             value: 'perpendicular'
+    #             detail: 'No, they are not perpendicular in a non-uniform field.'
+    # -
+    #     text: 'Magnetic lines of force are contract _____.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'longitudinally'
+    #         -
+    #             correct: false
+    #             value: 'laterally'
+    #             detail: 'No, they do not contract laterally.'
+    #         -
+    #             correct: false
+    #             value: 'areally'
+    #             detail: 'No, its not "areally."'
+    #         -
+    #             correct: false
+    #             value: 'both (a) and (b)'
+    #             detail: 'No, they do not contract both longitudinally and laterally.'
+    # -
+    #     text: 'Magnetic lines of force are expanding _________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'longitudinally'
+    #         -
+    #             correct: false
+    #             value: 'laterally'
+    #             detail: 'No, they do not expand laterally.'
+    #         -
+    #             correct: false
+    #             value: 'areally'
+    #             detail: 'No, its not "areally."'
+    #         -
+    #             correct: false
+    #             value: 'both (a) and (b)'
+    #             detail: 'No, they do not expand both longitudinally and laterally.'
+    # -
+    #     text: 'Magnetic lines of force have a tendency to contract along the_____.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'length'
+    #         -
+    #             correct: false
+    #             value: 'side'
+    #             detail: 'No, they do not contract along the side.'
+    #         -
+    #             correct: false
+    #             value: 'area'
+    #             detail: 'No, its not along the area.'
+    #         -
+    #             correct: false
+    #             value: 'volume'
+    #             detail: 'No, its not along the volume.'
+    # -
+    #     text: 'The lines of force of a uniform magnetic field are _________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'parallel'
+    #         -
+    #             correct: false
+    #             value: 'circular'
+    #             detail: 'No, they are not circular in a uniform magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'curved'
+    #             detail: 'No, they are not curved in a uniform magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'elliptical'
+    #             detail: 'No, they are not elliptical in a uniform magnetic field.'
+    # -
+    #     text: 'The lines of force of a non-uniform magnetic field are _________.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'curved'
+    #         -
+    #             correct: false
+    #             value: 'semicircular'
+    #             detail: 'No, they are not semicircular in a non-uniform field.'
+    #         -
+    #             correct: false
+    #             value: 'straight'
+    #             detail: 'No, they are not straight in a non-uniform field.'
+    #         -
+    #             correct: false
+    #             value: 'parallel'
+    #             detail: 'No, they are not parallel in a non-uniform field.'
+    # -
+    #     text: 'The magnetic lines of force are unaffected by __________ materials.'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'non magnetic'
+    #         -
+    #             correct: false
+    #             value: 'magnetic'
+    #             detail: 'No, they are affected by magnetic materials.'
+    #         -
+    #             correct: false
+    #             value: 'semi magnetic'
+    #             detail: 'No, they are not affected by semi-magnetic materials.'
+    #         -
+    #             correct: false
+    #             value: 'all of these'
+    #             detail: 'No, they are not affected by all types of materials.'
+    # -
+    #     text: 'The total number of magnetic lines of force which flow outward from the north pole of a magnet is called ________ .'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'magnetic flux'
+    #         -
+    #             correct: false
+    #             value: 'electric flux'
+    #             detail: 'No, its not called electric flux.'
+    #         -
+    #             correct: false
+    #             value: 'magnetic field'
+    #             detail: 'No, its not called magnetic field.'
+    #         -
+    #             correct: false
+    #             value: 'both (b) and (c)'
+    #             detail: 'No, its not both electric flux and magnetic field.'
+    # -
+    #     text: 'The SI unit of magnetic flux is ________ .'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'weber'
+    #         -
+    #             correct: false
+    #             value: 'maxwell'
+    #             detail: 'No, its not maxwell.'
+    #         -
+    #             correct: false
+    #             value: 'volt'
+    #             detail: 'No, its not volt.'
+    #         -
+    #             correct: false
+    #             value: 'gauss'
+    #             detail: 'No, its not gauss.'
+    # -
+    #     text: 'The CGS unit of magnetic flux is ________ .'
+    #     options:
+    #         -
+    #             correct: true
+    #             value: 'maxwell'
+    #         -
+    #             correct: false
+    #             value: 'tesla'
+    #             detail: 'No, its not tesla.'
+    #         -
+    #             correct: false
+    #             value: 'gauss'
+    #             detail: 'No, its not gauss.'
+    #         -
+    #             correct: false
+    #             value: 'weber'
+    #             detail: 'No, its not weber.'
+    # -
+    #     text: '1 weber ='
+    #     options:
+    #         -
+    #             correct: true
+    #             value: '108 tesla'
+    #         -
+    #             correct: false
+    #             value: '10-8 maxwell'
+    #             detail: 'No, its not 10-8 maxwell.'
+    #         -
+    #             correct: false
+    #             value: '108 maxwell'
+    #             detail: 'No, its not 108 maxwell.'
+    #         -
+    #             correct: false
+    #             value: '10-8 tesla'
+    #             detail: 'No, its not 10-8 tesla.'

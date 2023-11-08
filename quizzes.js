@@ -8,10 +8,14 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const quizzes = [
-    'physics-unit1-Units-and-Measurements',
+    'physics-unit1-Units-and-Measurements1',
+    'physics-unit1-Units-and-Measurements2',
     'physics-unit1-Dimensions',
     'physics-unit1-Errors',
     'physics-unit1-vernier',
+    'physics-unit2-ELECTROSTATICS-AND-MAGNETISM',
+    'physics-unit2-ELECTROSTATICS-AND-MAGNETISM2'
+
 ]
 
 

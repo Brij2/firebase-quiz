@@ -1,8 +1,12 @@
 quizzes:
     -
-        title: 'ELECTROSTATICS  AND MAGNETISM'          
+        title: 'ELECTROSTATICS  AND MAGNETISM Part 1'          
         description: 'ELECTROSTATICS  AND MAGNETISM '
         id: physics-unit2-ELECTROSTATICS-AND-MAGNETISM
+    -
+        title: 'ELECTROSTATICS  AND MAGNETISM Part 2'         
+        description: 'ELECTROSTATICS  AND MAGNETISM '
+        id: physics-unit2-ELECTROSTATICS-AND-MAGNETISM2
     -
         title: 'Electricity'          
         description: 'Electricity '
