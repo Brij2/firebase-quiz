@@ -1,0 +1,335 @@
+id: physics-unit3-Gas-laws
+title: 'Gas Law'
+description: 'This unit covers the basics of Gas Law in physics.'
+topic: physics-unit3-GasLaw
+questions:
+  -
+    text: 'At constant temperature, for a fixed mass of gas, the pressure of a given mass of gas is inversely proportional to its volume is called _____.'
+    options:
+      -
+        correct: true
+        value: 'a) Boyle’s law'
+      -
+        correct: false
+        value: 'b) Charle’s law'
+      -
+        correct: false
+        value: 'c) Gay Lussac’s law'
+      -
+        correct: false
+        value: 'd) Newton’s law'
+  -
+    text: 'For a fixed mass of gas, at constant pressure, the volume of a given mass of gas is directly proportional to its absolute temperature is known as _____.'
+    options:
+      -
+        correct: false
+        value: 'a) Boyle’s law'
+      -
+        correct: true
+        value: 'b) Charle’s law'
+      -
+        correct: false
+        value: 'c) Gay Lussac’s law'
+      -
+        correct: false
+        value: 'd) Newton’s law'
+  -
+    text: 'For a fixed mass of gas, volume of gas remaining constant, its pressure is directly proportional to absolute temperature is called ________.'
+    options:
+      -
+        correct: false
+        value: 'a) Boyle’s law'
+      -
+        correct: false
+        value: 'b) Charle’s law'
+      -
+        correct: true
+        value: 'c) Gay Lussac’s law'
+      -
+        correct: false
+        value: 'd) Newton’s law'
+  -
+    text: 'The working principle of a hot air balloon is based on__________.'
+    options:
+      -
+        correct: true
+        value: 'a) Boyle’s law'
+      -
+        correct: false
+        value: 'b) Charle’s law'
+      -
+        correct: false
+        value: 'c) Gay Lussac’s law'
+      -
+        correct: false
+        value: 'd) Newton’s law'
+  -
+    text: 'In Boyle’s law, _________ of gas is constant.'
+    options:
+      -
+        correct: false
+        value: 'a) temperature'
+      -
+        correct: true
+        value: 'b) pressure'
+      -
+        correct: false
+        value: 'c) volume'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'In Charle s law, _________ of gas is constant.'
+    options:
+      -
+        correct: true
+        value: 'a) Temperature'
+      -
+        correct: false
+        value: 'b) pressure'
+      -
+        correct: false
+        value: 'c) volume'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'In Gay Lussac s law, _________ of gas is constant.'
+    options:
+      -
+        correct: true
+        value: 'a) Temperature'
+      -
+        correct: false
+        value: 'b) pressure'
+      -
+        correct: false
+        value: 'c) volume'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'Gas law that states a direct relationship between temperature and pressure is ______.'
+    options:
+      -
+        correct: false
+        value: 'a) Boyle s law'
+      -
+        correct: false
+        value: 'b) Charle s law'
+      -
+        correct: false
+        value: 'c) Gay Lussac s law'
+      -
+        correct: true
+        value: 'd) Ideal gas law'
+  -
+    text: 'Gas law that depicts a direct relationship between temperature and volume is _______.'
+    options:
+      -
+        correct: false
+        value: 'a) Boyle s law'
+      -
+        correct: false
+        value: 'b) Ideal gas law'
+      -
+        correct: true
+        value: 'c) Charle s law'
+      -
+        correct: false
+        value: 'd) Gay Lussac s law'
+  -
+    text: 'The law that states there is an indirect relationship between volume and pressure is ______.'
+    options:
+      -
+        correct: false
+        value: 'a) Charle s law'
+      -
+        correct: false
+        value: 'b) Gay Lussac s law'
+      -
+        correct: true
+        value: 'c) Boyle s law'
+      -
+        correct: false
+        value: 'd) Ideal gas law'
+  -
+    text: 'The working principle of a hot air balloon is based on__________.'
+    options:
+      -
+        correct: true
+        value: 'a) Boyle s law'
+      -
+        correct: false
+        value: 'b) Charle s law'
+      -
+        correct: false
+        value: 'c) Gay Lussac s law'
+      -
+        correct: false
+        value: 'd) Newton s law'
+  -
+    text: 'At constant volume, the pressure of a gas is__________.'
+    options:
+      -
+        correct: false
+        value: 'a) Increase with temperature'
+      -
+        correct: false
+        value: 'b) Decrease with temperature'
+      -
+        correct: true
+        value: 'c) Increase with decrease in temperature'
+      -
+        correct: false
+        value: 'd) Decrease with increase in temperature'
+  -
+    text: 'If temperature of gas remains constant, the pressure of gas will be______.'
+    options:
+      -
+        correct: false
+        value: 'a) Increase with increase in volume'
+      -
+        correct: false
+        value: 'b) Decrease with decrease in volume'
+      -
+        correct: true
+        value: 'c) Increases with decrease in volume'
+      -
+        correct: false
+        value: 'd) None of these'
+  -
+    text: 'At constant pressure, the volume of gas is__________.'
+    options:
+      -
+        correct: false
+        value: 'a) Increase with temperature'
+      -
+        correct: false
+        value: 'b) Decrease with temperature'
+      -
+        correct: true
+        value: 'c) Increase with decrease in temperature'
+      -
+        correct: false
+        value: 'd) Decrease with increase in temperature'
+  -
+    text: 'The general gas equation is given by_______.'
+    options:
+      -
+        correct: false
+        value: 'a) RV=PT'
+      -
+        correct: false
+        value: 'b) PR=VT'
+      -
+        correct: true
+        value: 'c) P=nRT'
+      -
+        correct: false
+        value: 'd) PV=RT'
+  -
+    text: 'Ideal gas equation is given by______'
+    options:
+      -
+        correct: false
+        value: 'a) nV=PKT'
+      -
+        correct: false
+        value: 'b) P=VK'
+      -
+        correct: false
+        value: 'c) P=VKT'
+      -
+        correct: true
+        value: 'd) PV=KT'
+  -
+    text: 'The general gas equation is giving the relation between__________.'
+    options:
+      -
+        correct: true
+        value: 'a) Pressure, volume and temperature'
+      -
+        correct: false
+        value: 'b) Pressure and volume'
+      -
+        correct: false
+        value: 'c) Volume and temperature'
+      -
+        correct: false
+        value: 'd) Pressure and temperature'
+  -
+    text: 'At N.T.P, normal temperature =_____.'
+    options:
+      -
+        correct: false
+        value: 'a) 273 0C'
+      -
+        correct: false
+        value: 'b) -273 0C'
+      -
+        correct: true
+        value: 'c) 273 0K'
+      -
+        correct: false
+        value: 'd) 0 0K'
+  -
+    text: 'At N.T.P, normal temperature =_____.'
+    options:
+      -
+        correct: true
+        value: 'a) 0 0C'
+      -
+        correct: false
+        value: 'b) -273 0C'
+      -
+        correct: false
+        value: 'c) 273 0C'
+      -
+        correct: false
+        value: 'd) 0 0K'
+  -
+    text: 'At N.T.P, atmospheric pressure P =_____.'
+    options:
+      -
+        correct: false
+        value: 'a) 1.013 x 105 N/m2'
+      -
+        correct: false
+        value: 'b) 76cm of Hg'
+      -
+        correct: false
+        value: 'c) 760 mm of Hg'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'At constant volume, if the pressure of a gas increases, its pressure temperature_______.'
+    options:
+      -
+        correct: true
+        value: 'a) increases'
+      -
+        correct: false
+        value: 'b) decreases'
+      -
+        correct: false
+        value: 'c) constant'
+      -
+        correct: true
+        value: 'd) both a and b'
+  -
+    text: 'Popping a balloon uses which of the following law ?'
+    options:
+      -
+        correct: false
+        value: 'a) Charles law'
+      -
+        correct: true
+        value: 'b) Boyle s law'
+      -
+        correct: false
+        value: 'c) Gay Lussac s'
+      -
+        correct: false
+        value: 'd) Ideal gas law'

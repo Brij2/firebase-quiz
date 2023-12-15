@@ -1,0 +1,380 @@
+id: physics-unit3-Thermometry
+title: 'Thermometry'
+description: 'This unit covers the basics of Thermometry in physics.'
+topic: Thermometry
+questions:
+  -
+    text: 'Thermometry deals with the measurement of ________.'
+    options:
+      -
+        correct: true
+        value: 'a) temperature'
+      -
+        correct: false
+        value: 'b) light'
+      -
+        correct: false
+        value: 'c) current'
+      -
+        correct: false
+        value: 'd) thermal conductivity'
+  -
+    text: 'Heat is a form _______.'
+    options:
+      -
+        correct: true
+        value: 'a) energy'
+      -
+        correct: false
+        value: 'b) light'
+      -
+        correct: false
+        value: 'c) superconductor'
+      -
+        correct: false
+        value: 'd) law'
+  -
+    text: 'Which of the following is the natural source of heat energy?'
+    options:
+      -
+        correct: false
+        value: 'a) Earth'
+      -
+        correct: true
+        value: 'b) Sun'
+      -
+        correct: false
+        value: 'c) Moon'
+      -
+        correct: false
+        value: 'd) Mars'
+  -
+    text: 'Heat is _____ of energies of all the molecules in a body or system.'
+    options:
+      -
+        correct: true
+        value: 'a) average'
+      -
+        correct: false
+        value: 'b) product'
+      -
+        correct: false
+        value: 'c) sum'
+      -
+        correct: false
+        value: 'd) all of the above'
+  -
+    text: 'The energy which flows from a body at a higher temperature to a body at a lower temperature is called ______.'
+    options:
+      -
+        correct: false
+        value: 'a) sound'
+      -
+        correct: false
+        value: 'b) mechanical'
+      -
+        correct: true
+        value: 'c) heat'
+      -
+        correct: false
+        value: 'd) wind'
+  -
+    text: 'The dimensions of heat are _____.'
+    options:
+      -
+        correct: false
+        value: '[L1 M1 T-2]'
+      -
+        correct: false
+        value: '[L2 M1 T-2]'
+      -
+        correct: false
+        value: '[L2 M1 T-1]'
+      -
+        correct: true
+        value: '[L2 M2 T-2]'
+  -
+    text: 'The CGS unit of heat is ________.'
+    options:
+      -
+        correct: true
+        value: 'a) joule'
+      -
+        correct: false
+        value: 'b) calorie'
+      -
+        correct: false
+        value: 'c) work'
+      -
+        correct: false
+        value: 'd) kilocalorie'
+  -
+    text: 'The MKS unit of heat is ________.'
+    options:
+      -
+        correct: true
+        value: 'a) joule'
+      -
+        correct: false
+        value: 'b) calorie'
+      -
+        correct: false
+        value: 'c) work'
+      -
+        correct: false
+        value: 'd) kilocalorie'
+  -
+    text: 'The SI unit of heat is ________.'
+    options:
+      -
+        correct: true
+        value: 'a) joule'
+      -
+        correct: false
+        value: 'b) calorie'
+      -
+        correct: false
+        value: 'c) work'
+      -
+        correct: false
+        value: 'd) kilocalorie'
+  -
+    text: 'The amount of heat energy required to increase the temperature of one gram of water through 1°C is called ______.'
+    options:
+      -
+        correct: true
+        value: 'a) one joule'
+      -
+        correct: true
+        value: 'b) one calorie'
+      -
+        correct: true
+        value: 'c) one kilocalorie'
+      -
+        correct: true
+        value: 'd) all of the above'
+  -
+    text: '1 calorie = _____'
+    options:
+      -
+        correct: true
+        value: 'a) 4.186 J'
+      -
+        correct: false
+        value: 'b) 4186 J'
+      -
+        correct: false
+        value: 'c) 9.81 J'
+      -
+        correct: false
+        value: 'd) 6.67 J'
+  -
+    text: 'The amount of heat energy required to raise the temperature of one kilogram of water through 1°C is called ______.'
+    options:
+      -
+        correct: true
+        value: 'a) one joule'
+      -
+        correct: true
+        value: 'b) one calorie'
+      -
+        correct: true
+        value: 'c) one kilocalorie'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: '1 kcal = ____'
+    options:
+      -
+        correct: false
+        value: 'a) 4.186 J'
+      -
+        correct: true
+        value: 'b) 4186 J'
+      -
+        correct: false
+        value: 'c) 9.81 J'
+      -
+        correct: false
+        value: 'd) 6.67 J'
+  -
+    text: 'The amount of heat energy required to increase the temperature of (1/4.186) gram of water through 1°C is called ______.'
+    options:
+      -
+        correct: true
+        value: 'a) one joule'
+      -
+        correct: true
+        value: 'b) one calorie'
+      -
+        correct: true
+        value: 'c) one kilocalorie'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'Heat is an ____ property.'
+    options:
+      -
+        correct: true
+        value: 'a) intensive'
+      -
+        correct: false
+        value: 'b) extensive'
+      -
+        correct: false
+        value: 'c) Intensive as well as extensive'
+      -
+        correct: false
+        value: 'd) none of above'
+  -
+    text: 'Heat is measured by _______.'
+    options:
+      -
+        correct: false
+        value: 'a) Thermometer'
+      -
+        correct: false
+        value: 'b) Galvanometer'
+      -
+        correct: true
+        value: 'c) Calorimeter'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'The amount of heat required to raise the temperature of ___of water by 1°C is called one calorie.'
+    options:
+      -
+        correct: true
+        value: 'a) 1 gram'
+      -
+        correct: false
+        value: 'b) 1 kilogram'
+      -
+        correct: false
+        value: 'c) 1 litre'
+      -
+        correct: false
+        value: 'd) 1 kilolitre'
+  -
+    text: 'Which of the following is not a unit of heat?'
+    options:
+      -
+        correct: true
+        value: 'a) joule'
+      -
+        correct: false
+        value: 'b) fahrenheit'
+      -
+        correct: false
+        value: 'c) calorie'
+      -
+        correct: false
+        value: 'd) Kilocalorie'
+  -
+    text: 'Temperature is the measure of _______ of kinetic energy of the molecules of the body.'
+    options:
+      -
+        correct: true
+        value: 'a) average'
+      -
+        correct: false
+        value: 'b) product'
+      -
+        correct: false
+        value: 'c) sum'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'The degree of hotness or coldness of a body is called its ________.'
+    options:
+      -
+        correct: true
+        value: 'a) temperature'
+      -
+        correct: false
+        value: 'b) heat'
+      -
+        correct: false
+        value: 'c) one joule'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'The SI unit of Temperature is_________.'
+    options:
+      -
+        correct: true
+        value: 'a) degree kelvin'
+      -
+        correct: false
+        value: 'b) degree fahreinheit'
+      -
+        correct: false
+        value: 'c) degree celsius'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'Which of the following is not a unit of Temperature?'
+    options:
+      -
+        correct: false
+        value: 'a) degree kelvin'
+      -
+        correct: false
+        value: 'b) degree fahreinheit'
+      -
+        correct: false
+        value: 'c) degree celsius'
+      -
+        correct: true
+        value: 'd) degree calorie'
+  -
+    text: 'Temperature is an _________property.'
+    options:
+      -
+        correct: true
+        value: 'a) intensive'
+      -
+        correct: false
+        value: 'b) extensive'
+      -
+        correct: false
+        value: 'c) Intensive as well as extensive'
+      -
+        correct: false
+        value: 'd) None of these'
+  -
+    text: 'The temperature of boiling of 10 liters water and 50 liters water is _____.'
+    options:
+      -
+        correct: false
+        value: 'a) different'
+      -
+        correct: true
+        value: 'b) same'
+      -
+        correct: false
+        value: 'c) infinity'
+      -
+        correct: false
+        value: 'd) zero'
+  -
+    text: 'Which of the following is a correct statement?'
+    options:
+      -
+        correct: true
+        value: 'a) Temperature is a cause and Heat is its effect'
+      -
+        correct: false
+        value: 'b) Heat and temperature both are causes'
+      -
+        correct: false
+        value: 'c) Heat and temperature both are effects'
+      -
+        correct: false
+        value: 'd) Heat is a cause and Temperature is its effect'

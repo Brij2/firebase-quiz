@@ -1,0 +1,320 @@
+id: physics-unit3-Optics-Reflection-of-light
+title: 'Optics-Reflection-of-light'
+description: 'This unit covers the basics of Optics-Reflection-of-light in physics.'
+topic: physics-unit3-Optics-Reflection-of-light
+questions:
+  -
+    text: 'The study of the interaction of light with matter is called ________.'
+    options:
+      -
+        correct: false
+        value: 'a) energy'
+      -
+        correct: false
+        value: 'b) optics'
+      -
+        correct: false
+        value: 'c) temperature'
+      -
+        correct: true
+        value: 'd) refraction'
+  -
+    text: 'Light is one form of __________.'
+    options:
+      -
+        correct: true
+        value: 'a) energy'
+      -
+        correct: false
+        value: 'b) wave'
+      -
+        correct: false
+        value: 'c) particle'
+      -
+        correct: false
+        value: 'd) all of these'
+  -
+    text: 'The velocity of light is equal to ________________.'
+    options:
+      -
+        correct: false
+        value: 'a) Product of frequency and wavelength'
+      -
+        correct: false
+        value: 'b) Product of frequency and period'
+      -
+        correct: false
+        value: 'c) Ratio of wavelength and period'
+      -
+        correct: true
+        value: 'd) Both a and c'
+  -
+    text: 'The velocity of light in a vacuum is ________.'
+    options:
+      -
+        correct: false
+        value: 'a) 3 × 10^5 m/s'
+      -
+        correct: true
+        value: 'b) 3 × 10^8 m/s'
+      -
+        correct: false
+        value: 'c) 3 × 10^8 cm/s'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'A wave of light of a single frequency or wavelength is called_____________.'
+    options:
+      -
+        correct: false
+        value: 'a) polychromatic light'
+      -
+        correct: true
+        value: 'b) monochromatic light'
+      -
+        correct: false
+        value: 'c) coherent light'
+      -
+        correct: false
+        value: 'd) non-coherent light'
+  -
+    text: 'When light travels from one medium to another, ____________.'
+    options:
+      -
+        correct: true
+        value: 'a) Its velocity and wavelength changes'
+      -
+        correct: true
+        value: 'b) Its direction changes'
+      -
+        correct: true
+        value: 'c) Its frequency remains constant'
+      -
+        correct: true
+        value: 'd) All of these'
+  -
+    text: 'When a monochromatic ray of light travels from one transparent medium into another transparent medium, its direction changes. This phenomenon is called as _______.'
+    options:
+      -
+        correct: false
+        value: 'a) reflection of light'
+      -
+        correct: true
+        value: 'b) refraction of light'
+      -
+        correct: false
+        value: 'c) total internal reflection of light'
+      -
+        correct: true
+        value: 'd) all the above'
+  -
+    text: 'As per Snell’s law for a given pair of media, the ratio of the sine of the angle of incidence to the sine of the angle of refraction is ___________.'
+    options:
+      -
+        correct: false
+        value: 'a) Increases'
+      -
+        correct: false
+        value: 'b) Decreases'
+      -
+        correct: false
+        value: 'c) Remains constant'
+      -
+        correct: true
+        value: 'd) Increases then decreases'
+  -
+    text: 'When a light ray travels from optically rarer medium to optically denser medium, ______.'
+    options:
+      -
+        correct: false
+        value: 'a) it bends away from the normal'
+      -
+        correct: true
+        value: 'b) it bends towards the normal'
+      -
+        correct: false
+        value: 'c) it does not bend'
+      -
+        correct: true
+        value: 'd) both (a) and (b)'
+  -
+    text: 'When a light ray travels from optically denser to optically rarer medium, it _____.'
+    options:
+      -
+        correct: false
+        value: 'a) bends away from the normal'
+      -
+        correct: false
+        value: 'b) bends towards the normal'
+      -
+        correct: false
+        value: 'c) moves straight'
+      -
+        correct: true
+        value: 'd) both (a) and (b)'
+  -
+    text: 'When light travels from a vacuum (air) into glass, its speed and wavelength are __________.'
+    options:
+      -
+        correct: false
+        value: 'a) increases'
+      -
+        correct: true
+        value: 'b) decreases'
+      -
+        correct: false
+        value: 'c) remains constant'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'When light travels from denser to rarer, its speed and wavelength are __________.'
+    options:
+      -
+        correct: true
+        value: 'a) increases'
+      -
+        correct: false
+        value: 'b) decreases'
+      -
+        correct: false
+        value: 'c) remains constant'
+      -
+        correct: false
+        value: 'd) all of these'
+  -
+    text: 'When a light ray travels from air (rarer) medium to a glass (denser) medium______.'
+    options:
+      -
+        correct: false
+        value: 'a) the angle of incidence is greater than the angle of refraction'
+      -
+        correct: false
+        value: 'b) the angle of incidence is less than the angle of refraction'
+      -
+        correct: false
+        value: 'c) the angle of incidence is equal to the angle of refraction'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'When a light ray travels from glass (denser) medium to air (rarer) medium ______.'
+    options:
+      -
+        correct: false
+        value: 'a) the angle of incidence is greater than the angle of refraction'
+      -
+        correct: true
+        value: 'b) the angle of incidence is less than the angle of refraction'
+      -
+        correct: false
+        value: 'c) the angle of incidence is equal to the angle of refraction'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'Snell’s law is concerned with _______.'
+    options:
+      -
+        correct: false
+        value: 'a) polarisation of light'
+      -
+        correct: true
+        value: 'b) refraction of light'
+      -
+        correct: false
+        value: 'c) transmission of light'
+      -
+        correct: false
+        value: 'd) reflection of light'
+  -
+    text: 'For a given pair of media, the ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant, called _____.'
+    options:
+      -
+        correct: true
+        value: 'a) Snells law'
+      -
+        correct: false
+        value: 'b) Newtons law'
+      -
+        correct: false
+        value: 'c) Boyles law'
+      -
+        correct: false
+        value: 'd) none of these'
+  -
+    text: 'For any two pair of media, sin i / sin r = _______.'
+    options:
+      -
+        correct: false
+        value: 'a) Increases'
+      -
+        correct: false
+        value: 'b) Decreases'
+      -
+        correct: true
+        value: 'c) Constant'
+      -
+        correct: false
+        value: 'd) Increases then decreases'
+  -
+    text: 'According to Snell s law, Refractive Index of material = µ =_______.'
+    options:
+      -
+        correct: false
+        value: 'sin i x cos i = Constant'
+      -
+        correct: true
+        value: 'sin i / sin r = Constant'
+      -
+        correct: false
+        value: 'sin r x sin i = Constant'
+      -
+        correct: false
+        value: 'cos i / cos r = Constant'
+  -
+    text: 'For any two media, the sine of the angle of incidence to the sine of the angle of refraction is called _____.'
+    options:
+      -
+        correct: false
+        value: 'a refractive index of the second medium with respect to the first medium'
+      -
+        correct: false
+        value: 'b refractive index of the second medium with respect to the second medium'
+      -
+        correct: true
+        value: 'c refractive index of the first medium with respect to the second medium'
+      -
+        correct: false
+        value: 'd refractive index of the first medium with respect to the first medium'
+  -
+    text: 'Which one of the following is correct for Snell’s law?'
+    options:
+      -
+        correct: false
+        value: 'aµm = Va/Vm'
+      -
+        correct: false
+        value: 'aµm = λa/λb'
+      -
+        correct: false
+        value: 'aµm = µm/µa'
+      -
+        correct: true
+        value: 'all of these'
+  -
+    text: 'Refractive index of air or vacuum is________.'
+    options:
+      -
+        correct: false
+        value: 'a) zero'
+      -
+        correct: true
+        value: 'b) one'
+      -
+        correct: false
+        value: 'c) two'
+      -
+        correct: false
+        value: 'd) three'

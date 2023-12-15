@@ -1,0 +1,440 @@
+id: physics-unit3-Fiber-Optics
+title: 'Fiber-Optics'
+description: 'This unit covers the basics of Fiber-Optics in physics.'
+topic: physics-unit3-Fiber-Optics
+questions:
+  -
+    text: 'When a ray of light travels through a denser medium is incident on the surface rarer medium at an angle greater than the critical angle, the ray is totally reflected in a denser medium. This phenomenon is called ________.'
+    options:
+      -
+        correct: true
+        value: 'a) total internal reflection'
+      -
+        correct: false
+        value: 'b) total internal refraction'
+      -
+        correct: false
+        value: 'c) total internal polarisation'
+      -
+        correct: false
+        value: 'd) both (a) and (b)'
+  -
+    text: 'In total internal reflection phenomenon, the critical angle (ic) is defined as the angle of incidence in the denser medium at which angle of refraction is______.'
+    options:
+      -
+        correct: false
+        value: 'a) 45°'
+      -
+        correct: false
+        value: 'b) 90°'
+      -
+        correct: false
+        value: 'c) less than 45°'
+      -
+        correct: true
+        value: 'd) greater than 90°'
+  -
+    text: 'The angle of incidence in the denser medium for which the angle of refraction is 90° is called ________.'
+    options:
+      -
+        correct: false
+        value: 'a) Snell’s law'
+      -
+        correct: false
+        value: 'b) incident angle'
+      -
+        correct: false
+        value: 'c) refracted angle'
+      -
+        correct: true
+        value: 'd) critical angle'
+  -
+    text: 'The conditions of TIR _______.'
+    options:
+      -
+        correct: false
+        value: 'a) light must travel from optically denser medium to optically rarer medium.'
+      -
+        correct: true
+        value: 'b) angle of incidence is greater than its critical angle'
+      -
+        correct: false
+        value: 'c) light must travel from optically rarer to optically denser medium.'
+      -
+        correct: true
+        value: 'd) both (a) and (b)'
+  -
+    text: 'Choose the correct option from the following for the conditions of TIR?'
+    options:
+      -
+        correct: true
+        value: 'a) Angle of incidence is greater than the critical angle.'
+      -
+        correct: false
+        value: 'b) light must travel from optically denser to optically rarer medium'
+      -
+        correct: true
+        value: 'c) Refractive index of the core is greater than the refractive index of cladding.'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'A thin fiber of glass or plastic that carries light from one end to the other is called______.'
+    options:
+      -
+        correct: true
+        value: 'a) optical fiber'
+      -
+        correct: false
+        value: 'b) numerical aperture'
+      -
+        correct: false
+        value: 'c) critical fiber'
+      -
+        correct: false
+        value: 'd) acceptance cone'
+  -
+    text: 'A thin fiber of glass or plastic that carries light from one end to the other without considerable loss due to the T.I.R. phenomenon is known as _______.'
+    options:
+      -
+        correct: true
+        value: 'a) Optical fiber'
+      -
+        correct: false
+        value: 'b) Super fiber'
+      -
+        correct: false
+        value: 'c) Critical fiber'
+      -
+        correct: false
+        value: 'd) Acceptance cone'
+  -
+    text: 'Optical fiber works on the principle of _____.'
+    options:
+      -
+        correct: true
+        value: 'd) total internal reflection'
+      -
+        correct: false
+        value: 'b) reflection'
+      -
+        correct: false
+        value: 'c) refraction'
+      -
+        correct: false
+        value: 'a) total internal refraction'
+  -
+    text: 'An optical fiber consists of _____.'
+    options:
+      -
+        correct: true
+        value: 'd) all of the above'
+      -
+        correct: false
+        value: 'a) core'
+      -
+        correct: false
+        value: 'b) cladding'
+      -
+        correct: false
+        value: 'c) primary and secondary coating'
+  -
+    text: 'The central part of an optical fiber is called _____.'
+    options:
+      -
+        correct: true
+        value: 'a) core'
+      -
+        correct: false
+        value: 'b) jacket'
+      -
+        correct: false
+        value: 'c) cladding'
+      -
+        correct: false
+        value: 'd) both (a) and b'
+  -
+    text: 'The central part of an optical fiber is surrounded by ______.'
+    options:
+      -
+        correct: true
+        value: 'b) cladding'
+      -
+        correct: false
+        value: 'a) core'
+      -
+        correct: false
+        value: 'c) primary coating'
+      -
+        correct: false
+        value: 'd) secondary coating'
+  -
+    text: 'The sequence of parts of an optical fiber from center to top are _____.'
+    options:
+      -
+        correct: false
+        value: 'a) core, cladding, and jacket'
+      -
+        correct: false
+        value: 'b) core, jacket, and cladding'
+      -
+        correct: false
+        value: 'c) jacket, cladding, and core'
+      -
+        correct: true
+        value: 'd) cladding, core, and jacket'
+  -
+    text: 'The inner layer of an optical fiber is called _______.'
+    options:
+      -
+        correct: true
+        value: 'a) core'
+      -
+        correct: false
+        value: 'b) cladding'
+      -
+        correct: false
+        value: 'c) reflect'
+      -
+        correct: false
+        value: 'd) jacket'
+  -
+    text: 'Which of the following is a necessary condition for light to travel through an optical fiber?'
+    options:
+      -
+        correct: true
+        value: 'a) core > cladding'
+      -
+        correct: false
+        value: 'b) core < cladding'
+      -
+        correct: false
+        value: 'c) core = cladding'
+      -
+        correct: false
+        value: 'd) None of these'
+  -
+    text: 'Light propagates through an optical fiber because of________.'
+    options:
+      -
+        correct: true
+        value: 'a) total internal reflection'
+      -
+        correct: false
+        value: 'b) only reflection'
+      -
+        correct: false
+        value: 'c) only refraction'
+      -
+        correct: false
+        value: 'd) total internal refraction'
+  -
+    text: 'If the angle of incidence of light on the core of an optical fiber becomes larger than the critical angle, then the phenomena of _________.'
+    options:
+      -
+        correct: false
+        value: 'a) reflection occurs'
+      -
+        correct: false
+        value: 'b) refraction occurs'
+      -
+        correct: true
+        value: 'c) total internal reflection occurs'
+      -
+        correct: false
+        value: 'd) reflection and polarisation occur simultaneously'
+  -
+    text: 'In optical fiber, the refractive index of the core is ________ refractive index of cladding.'
+    options:
+      -
+        correct: false
+        value: 'a) less than'
+      -
+        correct: false
+        value: 'b) equal to'
+      -
+        correct: false
+        value: 'c) greater than'
+      -
+        correct: true
+        value: 'd) all of the above'
+  -
+    text: 'The R. I. of the cladding is ________.'
+    options:
+      -
+        correct: false
+        value: 'a) zero'
+      -
+        correct: false
+        value: 'b) greater than R.I. of the core'
+      -
+        correct: false
+        value: 'c) equal to R.I. of the core'
+      -
+        correct: true
+        value: 'd) less than R.I. of the core'
+  -
+    text: 'Which component provides additional strength and prevents the fiber from any damage?'
+    options:
+      -
+        correct: false
+        value: 'a) Core'
+      -
+        correct: false
+        value: 'b) Cladding'
+      -
+        correct: true
+        value: 'c) Protection skin or jacket'
+      -
+        correct: false
+        value: 'd) None of the above'
+  -
+    text: 'In _______ type of optical fiber cables, the density of the fiber core varies.'
+    options:
+      -
+        correct: false
+        value: 'a) Multimode step-index'
+      -
+        correct: false
+        value: 'b) Multimode graded-index'
+      -
+        correct: false
+        value: 'c) Multimode single-index'
+      -
+        correct: true
+        value: 'd) Single-mode'
+  -
+    text: 'Dispersion is maximum in _________ type of optical fibers.'
+    options:
+      -
+        correct: false
+        value: 'a) Multimode step-index'
+      -
+        correct: false
+        value: 'b) Multimode graded-index'
+      -
+        correct: false
+        value: 'c) Multimode single-index'
+      -
+        correct: true
+        value: 'd) Single-mode'
+  -
+    text: 'The sine of the acceptance angle of the an optical fiber is known as_____.'
+    options:
+      -
+        correct: false
+        value: 'a) Acceptance angle'
+      -
+        correct: true
+        value: 'b) Numerical aperture'
+      -
+        correct: false
+        value: 'c) Acceptance cone'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'The light gathering power of an optical fiber is called ________.'
+    options:
+      -
+        correct: false
+        value: 'a) Acceptance angle'
+      -
+        correct: true
+        value: 'b) Numerical aperture'
+      -
+        correct: false
+        value: 'c) Acceptance cone'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'The light collecting power of an optical fiber is called ________.'
+    options:
+      -
+        correct: false
+        value: 'a) Acceptance angle'
+      -
+        correct: true
+        value: 'b) Numerical aperture'
+      -
+        correct: false
+        value: 'c) Acceptance cone'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'The maximum angle made by the light ray with the fiber axis so that light can propagate through the fiber after TIR is called as_______.'
+    options:
+      -
+        correct: true
+        value: 'a) Acceptance angle'
+      -
+        correct: false
+        value: 'b) Numerical aperture'
+      -
+        correct: false
+        value: 'c) Acceptance cone'
+      -
+        correct: false
+        value: 'd) All of these'
+  -
+    text: 'The collection of light waves of an optical fiber depends on _______.'
+    options:
+      -
+        correct: false
+        value: 'a) Numerical aperture'
+      -
+        correct: false
+        value: 'b) Core size'
+      -
+        correct: true
+        value: 'c) Both (a) and (b)'
+      -
+        correct: false
+        value: 'd) None of the above'
+  -
+    text: 'In an optical fiber, the fiber cladding __________ the core.'
+    options:
+      -
+        correct: false
+        value: 'a) Is denser than'
+      -
+        correct: false
+        value: 'b) Has the same density as'
+      -
+        correct: false
+        value: 'c) Is less dense than'
+      -
+        correct: true
+        value: 'd) Is another name for'
+  -
+    text: 'The light is propagated through the fiber core by the phenomenon _______.'
+    options:
+      -
+        correct: true
+        value: 'a) Total internal reflection at core-cladding interface'
+      -
+        correct: false
+        value: 'b) Refraction at core-cladding intersection'
+      -
+        correct: false
+        value: 'c) Total internal reflection at the outer surface of the cladding'
+      -
+        correct: false
+        value: 'd) Change in the velocity of light within the fiber core'
+  -
+    text: 'Optical fibers are mainly used in _____.'
+    options:
+      -
+        correct: false
+        value: 'a) Sensors'
+      -
+        correct: false
+        value: 'b) Lighting and toys'
+      -
+        correct: false
+        value: 'c) Telecommunications'
+      -
+        correct: true
+        value: 'd) All of the above'

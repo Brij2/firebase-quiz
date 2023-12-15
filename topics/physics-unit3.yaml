@@ -1,20 +1,20 @@
 quizzes:
     -
         title: 'Thermometry'          
-        description: 'Thermometry '
+        description: 'Thermometry'
         id: physics-unit3-Thermometry
     -
         title: 'Gas laws'          
         description: 'Gas laws '
-        id: physics-unit2-Gas-laws
+        id: physics-unit3-Gas-laws
     -
         title: 'Fiber Optics'          
         description: 'Fiber Optics '
-        id: physics-unit2-Fiber-Optics
+        id: physics-unit3-Fiber-Optics
     -
         title: 'Optics-Reflection of light'          
         description: 'Optics-Reflection of light '
-        id: physics-unit2-Optics-Reflection-of-light
+        id: physics-unit3-Optics-Reflection-of-light
 id: physics-unit3
 img: default-cover.png
 courseCode: 'Basic Physics'

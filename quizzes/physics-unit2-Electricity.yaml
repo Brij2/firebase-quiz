@@ -1,0 +1,415 @@
+id: physics-unit2-Electricity
+title: 'Electricity'
+description: 'This unit covers the basics of physics-unit2-Electricity in physics.'
+topic: Electricity
+questions:
+  -
+    text: 'The rate of flow of charge in a conductor is called _________.'
+    options:
+      -
+        correct: false
+        value: 'a voltage'
+      -
+        correct: false
+        value: 'b resistance'
+      -
+        correct: true
+        value: 'c electric current'
+      -
+        correct: false
+        value: 'd constant charge'
+  -
+    text: 'The SI unit of electric current is _________.'
+    options:
+      -
+        correct: true
+        value: 'a ampere'
+      -
+        correct: false
+        value: 'b coulomb'
+      -
+        correct: false
+        value: 'c second'
+      -
+        correct: false
+        value: 'd ohm'
+  -
+    text: 'The unit of electric current is _________.'
+    options:
+      -
+        correct: false
+        value: 'a coulomb'
+      -
+        correct: false
+        value: 'b coulomb/second'
+      -
+        correct: true
+        value: 'c volt/second'
+      -
+        correct: false
+        value: 'd ohm coulomb/second (C/s)'
+  -
+    text: 'Coulomb/second (C/s) is the unit of  _________.'
+    options:
+      -
+        correct: false
+        value: 'a potential difference'
+      -
+        correct: false
+        value: 'b electric current'
+      -
+        correct: false
+        value: 'c resistance'
+      -
+        correct: true
+        value: 'd charge'
+  -
+    text: 'The ratio of potential difference to electric current is called _________.'
+    options:
+      -
+        correct: false
+        value: 'a energy'
+      -
+        correct: false
+        value: 'b resistance'
+      -
+        correct: true
+        value: 'c electric current'
+      -
+        correct: false
+        value: 'd capacitance'
+  -
+    text: 'To oppose the flow of an electric current is the property of the conductor called _________.'
+    options:
+      -
+        correct: false
+        value: 'a energy'
+      -
+        correct: false
+        value: 'b electric field'
+      -
+        correct: true
+        value: 'c resistance'
+      -
+        correct: false
+        value: 'd all of these'
+  -
+    text: 'A charge of 540 C is flowing through a circuit for 3 minutes, the electric current in the circuit is ___ .'
+    options:
+      -
+        correct: false
+        value: 'a 1A'
+      -
+        correct: false
+        value: 'b 2A'
+      -
+        correct: false
+        value: 'c 3A'
+      -
+        correct: true
+        value: 'd 0.33A'
+  -
+    text: 'The resistance of the material of unit length and unit area of cross-section is called _________.'
+    options:
+      -
+        correct: false
+        value: 'a power'
+      -
+        correct: false
+        value: 'b specific resistance'
+      -
+        correct: true
+        value: 'c resistance'
+      -
+        correct: true
+        value: 'd both (b) and (c)'
+  -
+    text: 'The specific resistance is called _________.'
+    options:
+      -
+        correct: false
+        value: 'a resistivity'
+      -
+        correct: false
+        value: 'b conductivity'
+      -
+        correct: false
+        value: 'c conductance'
+      -
+        correct: true
+        value: 'd resistance'
+  -
+    text: 'The unit of resistivity or specific resistance is _________.'
+    options:
+      -
+        correct: false
+        value: 'a ohm'
+      -
+        correct: true
+        value: 'b ohm-metre'
+      -
+        correct: false
+        value: 'c volt'
+      -
+        correct: false
+        value: 'd ohm/metre'
+  -
+    text: 'The resistance of a conductor is directly proportional to its _________.'
+    options:
+      -
+        correct: true
+        value: 'a length'
+      -
+        correct: true
+        value: 'b area'
+      -
+        correct: true
+        value: 'c volume'
+      -
+        correct: true
+        value: 'd all of these'
+  -
+    text: 'The resistance of a conductor is inversely proportional to its _________.'
+    options:
+      -
+        correct: true
+        value: 'a length'
+      -
+        correct: true
+        value: 'b area'
+      -
+        correct: true
+        value: 'c volume'
+      -
+        correct: true
+        value: 'd all of these'
+  -
+    text: 'The resistance of the conductor depends on _________.'
+    options:
+      -
+        correct: true
+        value: 'a material'
+      -
+        correct: true
+        value: 'b length'
+      -
+        correct: true
+        value: 'c area of cross-section'
+      -
+        correct: true
+        value: 'd all of these'
+  -
+    text: 'As the length of wire increases, the resistance of the conductor _________.'
+    options:
+      -
+        correct: false
+        value: 'a remains constant'
+      -
+        correct: true
+        value: 'b increases'
+      -
+        correct: false
+        value: 'c decreases'
+      -
+        correct: false
+        value: 'd all of these'
+  -
+    text: 'As the area of cross-section of conductor increases, the resistance of the conductor _________.'
+    options:
+      -
+        correct: false
+        value: 'a remains constant'
+      -
+        correct: true
+        value: 'b increases'
+      -
+        correct: false
+        value: 'c decreases'
+      -
+        correct: false
+        value: 'd none of the above'
+  -
+    text: 'As the area of cross-section and length of the conductor changes, the specific resistance of the conductor is _________.'
+    options:
+      -
+        correct: false
+        value: 'a zero'
+      -
+        correct: false
+        value: 'b decreases'
+      -
+        correct: true
+        value: 'c remains constant'
+      -
+        correct: false
+        value: 'd increases'
+  -
+    text: 'The reciprocal of the resistance of a material is called _________.'
+    options:
+      -
+        correct: true
+        value: 'a conductivity'
+      -
+        correct: false
+        value: 'b resistivity'
+      -
+        correct: true
+        value: 'c conductance'
+      -
+        correct: false
+        value: 'd specific resistance'
+  -
+    text: 'As area of cross section and length of conductor changes, the specific resistance of the conductor is ________.'
+    options:
+      -
+        correct: false
+        value: 'a zero'
+      -
+        correct: false
+        value: 'b decreases'
+      -
+        correct: true
+        value: 'c remains constant'
+      -
+        correct: false
+        value: 'd increases'
+    explanation: 'Specific resistance of the conductor is constant.'
+  -
+    text: 'The reciprocal of the resistance of a material is called ___.'
+    options:
+      -
+        correct: true
+        value: 'a conductivity'
+      -
+        correct: false
+        value: 'b resistivity'
+      -
+        correct: true
+        value: 'c conductance'
+      -
+        correct: false
+        value: 'd specific resistance'
+  -
+    text: 'The reciprocal of the resistivity of a material is called its ___.'
+    options:
+      -
+        correct: true
+        value: 'a conductivity'
+      -
+        correct: false
+        value: 'b resistivity'
+      -
+        correct: false
+        value: 'c conductance'
+      -
+        correct: false
+        value: 'd specific resistance'
+  -
+    text: 'The SI unit of conductance is ___.'
+    options:
+      -
+        correct: true
+        value: 'a mho'
+      -
+        correct: true
+        value: 'b ohm-1'
+      -
+        correct: true
+        value: 'c siemen'
+      -
+        correct: true
+        value: 'd all of these'
+    explanation: 'Conductance = Reciprocal of resistance = 1/resistance = 1/ohm = mho = siemen (S)'
+  -
+    text: 'The SI unit of conductivity is ___.'
+    options:
+      -
+        correct: false
+        value: 'a ohm'
+      -
+        correct: false
+        value: 'b reciprocal of ohm-metre'
+      -
+        correct: true
+        value: 'c siemen/metre'
+      -
+        correct: true
+        value: 'd both b and c'
+    explanation: 'Conductivity = Reciprocal of resistivity = 1/ohm-metre = siemen/metre = (S/m)'
+  -
+    text: 'Specific resistance or resistivity of a material is given by the formula ___ .'
+    options:
+      -
+        correct: false
+        value: 'a  = RA/L'
+      -
+        correct: false
+        value: 'b  = RL/A'
+      -
+        correct: false
+        value: 'c  = AL/R'
+      -
+        correct: true
+        value: 'd  = A/LR'
+  -
+    text: 'Specific resistance of the conductor depends on ____.'
+    options:
+      -
+        correct: true
+        value: 'a resistance of the conductor'
+      -
+        correct: true
+        value: 'b length'
+      -
+        correct: true
+        value: 'c area of cross-section'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'A wire has cross-sectional area 0.25cm2 and resistance 5. The specific resistance of the wire of length 15m is ___.'
+    options:
+      -
+        correct: false
+        value: 'a 9  10-6 -m'
+      -
+        correct: true
+        value: 'b 2.08  10-6 -m'
+      -
+        correct: false
+        value: 'c 3.3  10-6 -m'
+      -
+        correct: false
+        value: 'd 5.9  10-5 -m'
+    explanation: ' = RA /L = [5 x (0.25 x 10-2)2]/15 = 2.08  10-6 -m'
+  -
+    text: 'A 5 m long wire has a diameter of 0.60mm. If its resistance is 50 , find its specific resistance or resistivity.'
+    options:
+      -
+        correct: false
+        value: 'a 9  10-6 -m'
+      -
+        correct: true
+        value: 'b 2.83  10-6 -m'
+      -
+        correct: false
+        value: 'c 3.3  10-6 -m'
+      -
+        correct: false
+        value: 'd 5.9  10-5 -m'
+    explanation: ' = RA /L = [R × r2]/L = [50 x 3.14 x (0.30 x 10-3)2]/5 = 2.83 x 10-6-m'
+  -
+    text: 'If the length of the conductor is doubled and the area of cross-section is halved, the resistance of the conductor ____.'
+    options:
+      -
+        correct: true
+        value: 'a 4 times increases'
+      -
+        correct: false
+        value: 'b 4 times decreases'
+      -
+        correct: false
+        value: 'c constant'
+      -
+        correct: false
+        value: 'd 1/2 times increases'

@@ -1,0 +1,414 @@
+id: physics-unit2-Semiconductor
+title: 'Semiconductor'
+description: 'This unit covers the basics of Semiconductor in physics.'
+topic: physics-unit2-Semiconductor
+questions:
+  -
+    text: 'The substances or materials which conduct electricity are called ________ .'
+    options:
+      -
+        correct: true
+        value: 'a semiconductors'
+      -
+        correct: false
+        value: 'b bad conductors'
+      -
+        correct: false
+        value: 'c conductors'
+      -
+        correct: false
+        value: 'd insulators'
+  -
+    text: 'Which of the following is a conductor?'
+    options:
+      -
+        correct: false
+        value: 'a wood'
+      -
+        correct: false
+        value: 'b rubber'
+      -
+        correct: true
+        value: 'c steel'
+      -
+        correct: false
+        value: 'd paper'
+  -
+    text: 'The electrical conductivity of conductors is _____.'
+    options:
+      -
+        correct: true
+        value: 'b high'
+      -
+        correct: false
+        value: 'a low'
+      -
+        correct: false
+        value: 'c zero'
+      -
+        correct: false
+        value: 'd infinity'
+  -
+    text: 'Which of the following is not an example of a good conductor?'
+    options:
+      -
+        correct: true
+        value: 'c mica'
+      -
+        correct: false
+        value: 'a copper'
+      -
+        correct: false
+        value: 'b aluminium'
+      -
+        correct: false
+        value: 'd brass'
+  -
+    text: 'The substances or materials which do not conduct electricity are called _____.'
+    options:
+      -
+        correct: false
+        value: 'a good conductors'
+      -
+        correct: true
+        value: 'b insulators'
+      -
+        correct: false
+        value: 'c semiconductors'
+      -
+        correct: false
+        value: 'd conductors'
+  -
+    text: 'The electrical conductivity of insulators is _____.'
+    options:
+      -
+        correct: false
+        value: 'a low'
+      -
+        correct: false
+        value: 'b high'
+      -
+        correct: false
+        value: 'c infinity'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'Semiconductors are the materials having conductivity ________.'
+    options:
+      -
+        correct: false
+        value: 'a less than insulator'
+      -
+        correct: true
+        value: 'b less than conductor and insulator'
+      -
+        correct: false
+        value: 'c less than conductor and more than insulator'
+      -
+        correct: false
+        value: 'd none of these'
+  -
+    text: 'The substances whose electrical conductivity lies between the conductivity of conductors and insulators are called _____.'
+    options:
+      -
+        correct: true
+        value: 'a conductors'
+      -
+        correct: false
+        value: 'b insulators'
+      -
+        correct: true
+        value: 'c semiconductors'
+      -
+        correct: false
+        value: 'd none of these'
+  -
+    text: 'Which of the following is a semiconductor material?'
+    options:
+      -
+        correct: false
+        value: 'a steel'
+      -
+        correct: false
+        value: 'b brass'
+      -
+        correct: true
+        value: 'c germanium'
+      -
+        correct: false
+        value: 'd copper'
+  -
+    text: 'Out of the following, which is not a semiconductor material?'
+    options:
+      -
+        correct: false
+        value: 'a silicon'
+      -
+        correct: false
+        value: 'b germanium'
+      -
+        correct: false
+        value: 'c gallium arsenide'
+      -
+        correct: true
+        value: 'd carbon'
+  -
+    text: 'Which of the following is not an example of a semiconductor?'
+    options:
+      -
+        correct: true
+        value: 'b silver'
+      -
+        correct: false
+        value: 'a Si'
+      -
+        correct: false
+        value: 'c Ge'
+      -
+        correct: false
+        value: 'd GaAs'
+  -
+    text: 'The electrical conductivity of semiconductor material depends on ____.'
+    options:
+      -
+        correct: true
+        value: 'a temperature'
+      -
+        correct: true
+        value: 'b mass'
+      -
+        correct: true
+        value: 'c area'
+      -
+        correct: true
+        value: 'd all of the above'
+  -
+    text: 'The energy level of all electrons in a particular orbit of an atom is called its _______.'
+    options:
+      -
+        correct: false
+        value: 'a finite band'
+      -
+        correct: false
+        value: 'b infinite band'
+      -
+        correct: false
+        value: 'c energy band'
+      -
+        correct: true
+        value: 'd level band'
+  -
+    text: 'The _____ of energies possessed by ______ is known as the Valence band.'
+    options:
+      -
+        correct: false
+        value: 'a) amount, electrons'
+      -
+        correct: false
+        value: 'b) range, atoms'
+      -
+        correct: false
+        value: 'c) value, atoms'
+      -
+        correct: true
+        value: 'd) range, valence electrons'
+  -
+    text: 'The band of energy formed by the valence electrons is called ______.'
+    options:
+      -
+        correct: true
+        value: 'a) valence band'
+      -
+        correct: true
+        value: 'b) conduction band'
+      -
+        correct: true
+        value: 'c) forbidden energy band'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'The band of energy occupied by the conduction electrons is called ______.'
+    options:
+      -
+        correct: false
+        value: 'a) valence band'
+      -
+        correct: true
+        value: 'b) conduction band'
+      -
+        correct: false
+        value: 'c) energy gap'
+      -
+        correct: false
+        value: 'd) none of the above'
+  -
+    text: 'The gap between the conduction band and the valence band is called ____.'
+    options:
+      -
+        correct: false
+        value: 'a) conduction gap'
+      -
+        correct: false
+        value: 'b) work gap'
+      -
+        correct: false
+        value: 'c) valence gap'
+      -
+        correct: true
+        value: 'd) forbidden energy gap'
+  -
+    text: 'The forbidden energy gap between the valence band and the conduction band in silicon is _____.'
+    options:
+      -
+        correct: false
+        value: 'a) 0.72 eV'
+      -
+        correct: false
+        value: 'b) 1.1 eV'
+      -
+        correct: false
+        value: 'c) 1.9 eV'
+      -
+        correct: true
+        value: 'd) 0.3 eV'
+  -
+    text: 'The forbidden energy gap between the valence band and the conduction band in germanium is _____.'
+    options:
+      -
+        correct: false
+        value: 'a) 1.1 eV'
+      -
+        correct: true
+        value: 'b) 0.72 eV'
+      -
+        correct: false
+        value: 'c) 1.9 eV'
+      -
+        correct: false
+        value: 'd) 0.52 eV'
+  -
+    text: 'The valence band and conduction band overlap each other in ____.'
+    options:
+      -
+        correct: false
+        value: 'a) conductors'
+      -
+        correct: false
+        value: 'b) insulators'
+      -
+        correct: true
+        value: 'c) semiconductors'
+      -
+        correct: true
+        value: 'd) all of the above'
+  -
+    text: 'The forbidden energy gap is large in ____.'
+    options:
+      -
+        correct: false
+        value: 'a) conductors'
+      -
+        correct: true
+        value: 'b) insulators'
+      -
+        correct: false
+        value: 'c) semiconductors'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'The forbidden energy gap is small in ____, as compared to insulators.'
+    options:
+      -
+        correct: false
+        value: 'a) superconductors'
+      -
+        correct: false
+        value: 'b) insulators'
+      -
+        correct: true
+        value: 'c) semiconductors'
+      -
+        correct: true
+        value: 'd) all of these'
+  -
+    text: 'As temperature increases, the conductivity of conductors _______.'
+    options:
+      -
+        correct: false
+        value: 'a) decreases'
+      -
+        correct: true
+        value: 'b) infinity'
+      -
+        correct: false
+        value: 'c) zero'
+      -
+        correct: false
+        value: 'd) increases'
+  -
+    text: 'As temperature increases, the conductivity of insulators _____'
+    options:
+      -
+        correct: true
+        value: 'a) increases'
+      -
+        correct: false
+        value: 'b) decreases'
+      -
+        correct: false
+        value: 'c) constant'
+      -
+        correct: false
+        value: 'd) zero'
+  -
+    text: 'As temperature increases, the conductivity of semiconductors _____'
+    options:
+      -
+        correct: true
+        value: 'a) increases'
+      -
+        correct: false
+        value: 'b) decreases'
+      -
+        correct: false
+        value: 'c) constant'
+      -
+        correct: false
+        value: 'd) zero'
+  -
+    text: 'Pure semiconductors are called _______.'
+    options:
+      -
+        correct: false
+        value: 'a) extrinsic semiconductors'
+      -
+        correct: true
+        value: 'b) intrinsic semiconductors'
+      -
+        correct: false
+        value: 'c) pentavalent impurities'
+      -
+        correct: false
+        value: 'd) trivalent impurities'
+  -
+    text: 'Which of the following is an example of intrinsic semiconductor.'
+    options:
+      -
+        correct: false
+        value: 'a) silicon'
+      -
+        correct: false
+        value: 'b) carbon'
+      -
+        correct: false
+        value: 'c) germanium'
+      -
+        correct: true
+        value: 'd) both a and b'
+
+
+
+

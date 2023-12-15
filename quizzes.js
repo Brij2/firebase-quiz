@@ -14,7 +14,13 @@ const quizzes = [
     'physics-unit1-Errors',
     'physics-unit1-vernier',
     'physics-unit2-ELECTROSTATICS-AND-MAGNETISM',
-    'physics-unit2-ELECTROSTATICS-AND-MAGNETISM2'
+    'physics-unit2-ELECTROSTATICS-AND-MAGNETISM2',
+    'physics-unit2-Electricity',
+    'physics-unit2-Semiconductor',
+    'physics-unit3-Thermometry',
+    'physics-unit3-Gas-laws',
+    'physics-unit3-Fiber-Optics',
+    'physics-unit3-Optics-Reflection-of-light'
 
 ]
 
